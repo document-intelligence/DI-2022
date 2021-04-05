@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Home"
+    url: /home/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Organization"
+    url: /organization/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Call For Papers (CFP)"
+    url: /cfp/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Invited Talks"
+    url: /talks/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Accepted Papers"
+    url: /papers/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Program"
+    url: /program/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Presentations/Slides"
+    url: /slides/
