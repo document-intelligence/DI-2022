@@ -9,9 +9,13 @@ redirect_from:
   - /about.html
 ---
 
+------
+
 Document Intelligence Workshop 2019
 
 The previous edition of the workshop was held at NeurIPS 2019 conference. Please find the workshop information, organization, speakers, presentations and details here.  
+
+------
 
 # Workshop Summary
 
@@ -49,17 +53,24 @@ discussions in form of breakout sessions and/or panel discussions reflecting on
 the major challenges in Document Intelligence, as well as a poster session for
 presenting the accepted peer-reviewed papers.  
 
+------
+
 # Call For Papers
 
  Please visit the Call for Paper page for detail on contributions solicited,
 
+------
+
 # Important Dates
 
-Paper Submission Deadline: TBD
-Paper Notification Date: TBD
-Workshop Date: TBD
-Workshop Venue
-The workshop will be organized along with TBD (under submission)
+- Paper Submission Deadline: TBD
+- Paper Notification Date: TBD
+- Workshop Date: TBD
+- Workshop Venue
+- The workshop will be organized along with TBD (under submission)
 
-Contact Information:
+------
+
+# Contact Information
+
 Email: documentintelligenceworkshop@gmail.com

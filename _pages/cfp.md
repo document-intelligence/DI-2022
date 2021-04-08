@@ -6,6 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
+------
  
 # Abstract 
 
@@ -53,8 +54,12 @@ Document Intelligence, the workshop program will include paper sessions which
 provides an opportunity to present peer-reviewed work on the topic related to
 Document Intelligence. 
 
+------
+
 # Workshop Website 
 https://aka.ms/di-2021 
+
+------
 
 # Submissions 
 
@@ -62,24 +67,37 @@ We are soliciting submissions of short papers in PDF format and formatted accord
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 The review process is double-blind. The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics. It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
+------
+
 # Submission URL 
 
 Microsoft Research CMT: https://cmt3.research.microsoft.com/DI2021 
 
+------
+
 # Important Dates 
+
 Paper Submission Deadline: May 10, 2021. 
 Paper Notification Date: June 10, 2021 
 Virtual Workshop Date: August 14-18, 2021 
 
+------
+
 # Contact Information: 
 
 Email: document-intelligence@outlook.com  
-Workshop Organizing Committee 
-Douglas Burdick (IBM Research) 
-Dave Lewis (Reveal-Brainspace) 
-Yijuan (Lucy) Lu (Microsoft Azure Cognitive Services) 
-Hamid Motahari (Macquarie University) 
-Sandeep Tata (Google Research) 
+
+------
+
+# Workshop Organizing Committee 
+
+- Douglas Burdick (IBM Research) 
+- Dave Lewis (Reveal-Brainspace) 
+- Yijuan (Lucy) Lu (Microsoft Azure Cognitive Services) 
+- Hamid Motahari (Macquarie University) 
+- Sandeep Tata (Google Research) 
+
+------
 
 # Program Committee Chair 
 
