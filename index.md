@@ -1,3 +1,14 @@
+---
+permalink: /
+title: <center> Workshop on Document Intelligence (DI 2021) </center>
+excerpt: "About"
+sitemap: false
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Document Intelligence Workshop 2019: 
 
 The previous edition of the workshop was held at NeurIPS 2019 conference.
