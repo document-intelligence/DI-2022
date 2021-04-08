@@ -6,6 +6,9 @@ author_profile: true
 sitemap: false
 ---
 
+# Call for Papers  
+Document Intelligence Workshop at [KDD 2021](https://www.kdd.org/kdd2021/)
+
 ------
  
 # Abstract 
