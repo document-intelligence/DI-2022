@@ -2,9 +2,12 @@
 permalink: /
 layout: archive
 title: "Call for Papers – Document Intelligence Workshop at KDD 2021"
-permalink: /cfp/
-author_profile: true
+excerpt: "CFP"
 sitemap: false
+author_profile: true
+redirect_from: 
+  - /cfp/
+  - /cfp.html
 ---
 
 ------
