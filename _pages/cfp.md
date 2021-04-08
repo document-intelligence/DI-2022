@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Call for Papers"
+permalink: /cfp/
+author_profile: true
+sitemap: false
+---
+
 Call for Papers – Document Intelligence (DI 2021) Workshop at KDD 2021 
 Abstract 
 Business documents are central to the operation of all organizations, and they come in all shapes and sizes: project reports, planning documents, technical specifications, financial statements, meeting minutes, legal agreements, contracts, resumes, purchase orders, invoices, and many more. The ability to read, understand and interpret these documents, referred to here as Document Intelligence (DI), is challenging due to their complex formats and structures, internal and external cross references deployed, quality of scans and OCR performed, and many domains of knowledge involved.  
