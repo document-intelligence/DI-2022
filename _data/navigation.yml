@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Organization"
-    url: /organization/    
-
   - title: "Call For Papers (CFP)"
     url: /cfp/    
+
+  - title: "Organization"
+    url: /organization/    
     
   - title: "Invited Talks"
     url: /talks/
