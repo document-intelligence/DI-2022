@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             :
-  avatar           :
-  bio              :
+  name             : "DI-2021"
+  avatar           : "profile.png"
+  bio              : "Workshop on Document Intelligence (DI 2021)"
   location         :
   employer         :
   pubmed           :
