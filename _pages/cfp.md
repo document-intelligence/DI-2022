@@ -57,7 +57,8 @@ Document Intelligence.
 ------
 
 # Workshop Website 
-https://aka.ms/di-2021 
+
+[https://aka.ms/di-2021](https://aka.ms/di-2021)
 
 ------
 
@@ -71,15 +72,15 @@ The review process is double-blind. The submitted contributions will be peer-rev
 
 # Submission URL 
 
-Microsoft Research CMT: https://cmt3.research.microsoft.com/DI2021 
+Microsoft Research CMT: [https://cmt3.research.microsoft.com/DI2021](https://cmt3.research.microsoft.com/DI2021)
 
 ------
 
 # Important Dates 
 
-Paper Submission Deadline: May 10, 2021. 
-Paper Notification Date: June 10, 2021 
-Virtual Workshop Date: August 14-18, 2021 
+- Paper Submission Deadline: May 10, 2021. 
+- Paper Notification Date: June 10, 2021 
+- Virtual Workshop Date: August 14-18, 2021 
 
 ------
 
