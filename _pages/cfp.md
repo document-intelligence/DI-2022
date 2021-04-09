@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>Call for Papers<br>Document Intelligence Workshop<br>at <href="https://www.kdd.org/kdd2021/">KDD 2021</a></center>
+title: <center>Call for Papers<br>Document Intelligence Workshop<br>at [KDD 2021](https://www.kdd.org/kdd2021/)</center>
 excerpt: "CFP"
 sitemap: false
 author_profile: true
