@@ -99,7 +99,7 @@ Email: document-intelligence@outlook.com
 
 - Douglas Burdick (IBM Research) 
 - Dave Lewis (Reveal-Brainspace) 
-- Yijuan (Lucy) Lu (Microsoft Azure Cognitive Services) 
+- Yijuan (Lucy) Lu (Microsoft Azure AI) 
 - Hamid Motahari (Macquarie University) 
 - Sandeep Tata (Google Research) 
 
@@ -107,6 +107,6 @@ Email: document-intelligence@outlook.com
 
 # Program Committee Chair 
 
-Benjamin Han (Microsoft Azure Cognitive Services)
+Benjamin Han (Microsoft Azure AI)
 
 
