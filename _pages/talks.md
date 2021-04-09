@@ -14,7 +14,7 @@ permalink: /talks/
 
 **Kevyn Collins-Thompson**, Assoc. Prof., Information and Dept. of EECS, U. of Michigan – CONFIRMED	
 
-<img src='/images/Picture1.png'>
+<img src='/DI-2021/images/Picture1.png'>
 <img src='Picture1.png'>
 
 ------
