@@ -13,7 +13,7 @@ permalink: /talks/
 
 **Ting Liu**, Principal Engineer & Director at Google Cloud AI)
 
-<img src='/DI-2021/images/Picture2.png'>
+<img src='/DI-2021/images/Picture2.jpg'>
 
 ------
 
@@ -26,16 +26,16 @@ permalink: /talks/
 
 **Benjamin Van Durme**, Associate Professor at Computer Science, Johns Hopkins Univ.
 
-<img src='/DI-2021/images/Picture4.png'>
+<img src='/DI-2021/images/Picture4.jpg'>
 
 ------
 
 **Yunyao Li**, Senior Manager and Principal Research Staff Member at IBM Research
 
-<img src='/DI-2021/images/Picture5.png'>
+<img src='/DI-2021/images/Picture5.jpg'>
 
 ------
 
 **Cha Zhang**, Partner Engineering Manager at Microsoft Azure AI; IEEE Fellow
 
-<img src='/DI-2021/images/Picture6.png'>
+<img src='/DI-2021/images/Picture6.jpg'>
