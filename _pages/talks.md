@@ -5,45 +5,37 @@ sitemap: false
 permalink: /talks/
 ---
 
-{% include base_path %}
-
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
-**Kevyn Collins-Thompson**, Assoc. Prof., Information and Dept. of EECS, U. of Michigan – CONFIRMED	
+**Kevyn Collins-Thompson**, Assoc. Prof., Information and Dept. of EECS, U. of Michigan
 
 <img src='/DI-2021/images/Picture1.png'>
-<img src='Picture1.png'>
 
 ------
 
-**Ting Liu**, Principal Engineer & Director at Google Cloud AI) – CONFIRMED
+**Ting Liu**, Principal Engineer & Director at Google Cloud AI)
 
-<img src='/images/Picture2.png'>
-
-------
-
-**Heng Ji**, Professor at Computer Science, UIUC – CONFIRMED	
-
-
-<img src='/images/Picture3.png'>
+<img src='/DI-2021/images/Picture2.png'>
 
 ------
 
-**Benjamin Van Durme**, Associate Professor at Computer Science, Johns Hopkins Univ. – CONFIRMED
+**Heng Ji**, Professor at Computer Science, UIUC
 
-<img src='/images/Picture4.png'>
 
-------
-
-**Yunyao Li**, Senior Manager and Principal Research Staff Member at IBM Research – CONFIRMED	
-
-<img src='/images/Picture5.png'>
+<img src='/DI-2021/images/Picture3.png'>
 
 ------
 
-**Cha Zhang**, Partner Engineering Manager at Microsoft Azure AI; IEEE Fellow – CONFIRMED
+**Benjamin Van Durme**, Associate Professor at Computer Science, Johns Hopkins Univ.
 
-<img src='/images/Picture6.png'>
+<img src='/DI-2021/images/Picture4.png'>
+
+------
+
+**Yunyao Li**, Senior Manager and Principal Research Staff Member at IBM Research
+
+<img src='/DI-2021/images/Picture5.png'>
+
+------
+
+**Cha Zhang**, Partner Engineering Manager at Microsoft Azure AI; IEEE Fellow
+
+<img src='/DI-2021/images/Picture6.png'>
