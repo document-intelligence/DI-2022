@@ -10,6 +10,8 @@ redirect_from:
 ---
 
 ------
+
+<center>[1st Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)</center>
  
 # Abstract 
 
@@ -105,4 +107,6 @@ Email: document-intelligence@outlook.com
 
 # Program Committee Chair 
 
-Benjamin Han (Microsoft Azure Cognitive Services) 
+Benjamin Han (Microsoft Azure Cognitive Services)
+
+
