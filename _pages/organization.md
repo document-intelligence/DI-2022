@@ -74,7 +74,7 @@ from the University of Michigan.
 ------
 # Program Committee Chair
 
-**Benjamin Han** is the Principal Science Manager leading the research
+**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
 and development of the natural language services on **Microsoft Azure
 AI**. His current focus is to democratize the
 state-of-the-art NLP research to serve customers at scale. His
