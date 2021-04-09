@@ -2,8 +2,6 @@
 title: <center>Program</center>
 excerpt: "Program"
 author_profile: true
-redirect_from: 
-  - /program/
 sitemap: false
 permalink: /program.html
 ---

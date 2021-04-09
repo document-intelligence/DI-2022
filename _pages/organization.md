@@ -2,9 +2,6 @@
 title: <center>Organization</center>
 excerpt: "Organization"
 author_profile: true
-redirect_from: 
-  - /organization/
-  - /organization.html
 sitemap: false
 permalink: /organization.html
 ---
