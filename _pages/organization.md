@@ -1,9 +1,8 @@
 ---
 title: <center>Organization</center>
 excerpt: "Organization"
-author_profile: true
 sitemap: false
-permalink: /organization.html
+permalink: /organization/
 ---
 
 ------

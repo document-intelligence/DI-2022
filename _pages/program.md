@@ -1,9 +1,8 @@
 ---
 title: <center>Program</center>
 excerpt: "Program"
-author_profile: true
 sitemap: false
-permalink: /program.html
+permalink: /program/
 ---
 
 ------
