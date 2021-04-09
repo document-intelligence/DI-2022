@@ -71,7 +71,7 @@ Research Staff Member at IBM’s Almaden Research Center. He has a PhD
 from the University of Michigan.
 
 ------
-# Program Committee Chair/Main Contact
+# Program Committee Chair
 
 **Benjamin Han** is the Principal Science Manager leading the research
 and development of the natural language services on **Microsoft Azure
