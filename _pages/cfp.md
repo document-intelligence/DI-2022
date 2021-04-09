@@ -63,7 +63,7 @@ Document Intelligence.
 
 # Workshop Website 
 
-[https://aka.ms/di-2021](https://aka.ms/di-2021)
+<https://aka.ms/di-2021>
 
 ------
 
@@ -77,7 +77,7 @@ The review process is double-blind. The submitted contributions will be peer-rev
 
 # Submission URL 
 
-Microsoft Research CMT: [https://cmt3.research.microsoft.com/DI2021](https://cmt3.research.microsoft.com/DI2021)
+Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
@@ -91,7 +91,7 @@ Microsoft Research CMT: [https://cmt3.research.microsoft.com/DI2021](https://cmt
 
 # Contact Information: 
 
-Email: document-intelligence@outlook.com  
+Email: <document-intelligence@outlook.com>
 
 ------
 
