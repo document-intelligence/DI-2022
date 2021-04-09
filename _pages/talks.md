@@ -5,6 +5,13 @@ sitemap: false
 permalink: /talks/
 ---
 
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
 **Kevyn Collins-Thompson**, Assoc. Prof., Information and Dept. of EECS, U. of Michigan – CONFIRMED	
 
 <img src='/images/Picture1.png'>
