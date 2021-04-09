@@ -7,7 +7,8 @@ permalink: /organization/
 
 ------
 
-# Organizing Committee (Alphabetical Order)
+# Organizing Committee
+(in alphabetical Order)
 
 **Douglas Burdick** is a Research Staff Member at **IBM Research** - Almaden
 currently working on the application of AI and machine learning to
