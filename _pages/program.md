@@ -4,7 +4,6 @@ excerpt: "Program"
 author_profile: true
 redirect_from: 
   - /program/
-  - /program.html
 sitemap: false
 permalink: /program.html
 ---
