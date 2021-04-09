@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-<center>[1st Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)</center>
+[First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
  
 # Abstract 
 
