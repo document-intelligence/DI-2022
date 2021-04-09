@@ -1,3 +1,16 @@
+---
+title: <center>Program</center>
+excerpt: "Program"
+author_profile: true
+redirect_from: 
+  - /program/
+  - /program.html
+sitemap: false
+permalink: /program.html
+---
+
+------
+
 Program
 
 We propose a full-day workshop containing the following elements:
