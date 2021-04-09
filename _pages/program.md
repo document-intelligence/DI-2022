@@ -15,6 +15,7 @@ The workshop contains the following elements:
 4. A summary derived from the discussion and conclusion of the workshop.
 
 ------
+
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| Ben 	|
