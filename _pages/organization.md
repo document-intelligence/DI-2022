@@ -9,7 +9,7 @@ permalink: /organization/
 
 # Organizing Committee (Alphabetical Order)
 
-*Douglas Burdick* is a Research Staff Member at IBM Research - Almaden
+**Douglas Burdick** is a Research Staff Member at IBM Research - Almaden
 currently working on the application of AI and machine learning to
 document understanding, which includes table extraction and
 understanding in addition to inferring document structure. His
@@ -25,7 +25,7 @@ the University of Wisconsin - Madison.
 
 ------
 
-*Dave Lewis* is an Executive Vice President for AI Research,
+**Dave Lewis** is an Executive Vice President for AI Research,
 Development, and Ethics at Reveal-Brainspace. Prior to joining
 Brainspace, he was variously a freelance consultant, corporate
 researcher (Bell Labs, AT&T Labs), research professor, and software
@@ -38,11 +38,11 @@ sampling.
 
 ------
 
-*Yijuan (Lucy) Lu* is a Principal Scientist at Microsoft Azure AI where she worked on invoice understanding, OCR core engine, and video understanding in the recent two years. Prior to joining Microsoft, she was an associate professor in the Department of Computer Science at Texas State University. Her major publications appear in leading publication venues in multimedia and computer vision research.  She was the First Place Winner in many challenging retrieval competitions in Eurographics for many years. She received 2015 Texas State Presidential Distinction Award and 2014 College Achievement Award. She also received the Best Paper award from ICME 2013 and ICIMCS 2012. She has obtained many competitive external grants from NSF, US Army, US Department of Defense and Texas Department of Transportation.
+**Yijuan (Lucy) Lu** is a Principal Scientist at Microsoft Azure AI where she worked on invoice understanding, OCR core engine, and video understanding in the recent two years. Prior to joining Microsoft, she was an associate professor in the Department of Computer Science at Texas State University. Her major publications appear in leading publication venues in multimedia and computer vision research.  She was the First Place Winner in many challenging retrieval competitions in Eurographics for many years. She received 2015 Texas State Presidential Distinction Award and 2014 College Achievement Award. She also received the Best Paper award from ICME 2013 and ICIMCS 2012. She has obtained many competitive external grants from NSF, US Army, US Department of Defense and Texas Department of Transportation.
 
 ------
 
-*Hamid Motahari* is an Honorary Professor of Computer Science at
+**Hamid Motahari** is an Honorary Professor of Computer Science at
 Macquarie University, Sydney, Australia. Prior to this, he was the
 Head of AI Science at the EY AI Lab in California where he was leading
 a team of AI scientists in text and document understanding. Prior to
@@ -57,7 +57,7 @@ the 1st Workshop on Document Intelligence at NeurIPS 2019.
 
 ------
 
-*Sandeep Tata* is a Software Engineer at Google Research and leads a
+**Sandeep Tata** is a Software Engineer at Google Research and leads a
 research group on information extraction.  Sandeep has published
 dozens of peer-reviewed research articles across a variety of
 disciplines including data management, data mining, natural language
@@ -73,9 +73,9 @@ from the University of Michigan.
 ------
 # Program Committee Chair/Main Contact
 
-*Benjamin Han* is the Principal Science Manager leading the research
-and development of the natural language services on *Microsoft Azure
-Cognitive Services*. His current focus is to democratize the
+**Benjamin Han** is the Principal Science Manager leading the research
+and development of the natural language services on **Microsoft Azure
+Cognitive Services**. His current focus is to democratize the
 state-of-the-art NLP research to serve customers at scale. His
 research interests include language detection, key phrase extraction,
 sentiment analysis, named entity recognition, entity linking,
