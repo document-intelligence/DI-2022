@@ -13,7 +13,7 @@ redirect_from:
 
 [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
  
-# Abstract 
+## Abstract 
 
 Business documents are central to the operation of all organizations, and they
 come in all shapes and sizes: project reports, planning documents, technical
@@ -61,13 +61,7 @@ Document Intelligence.
 
 ------
 
-# Workshop Website 
-
-<https://aka.ms/di-2021>
-
-------
-
-# Submissions 
+## Submissions 
 
 We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to four (4) pages, not including references. Submissions that do not meet the formatting requirements will be rejected without review. 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
@@ -75,13 +69,13 @@ The review process is double-blind. The submitted contributions will be peer-rev
 
 ------
 
-# Submission URL 
+## Submission URL 
 
 Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
-# Important Dates 
+## Important Dates 
 
 - Paper Submission Deadline: May 10, 2021. 
 - Paper Notification Date: June 10, 2021 
@@ -89,13 +83,19 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
-# Contact Information: 
+## Workshop Website 
+
+<https://aka.ms/di-2021>
+
+------
+
+## Contact Information: 
 
 Email: <document-intelligence@outlook.com>
 
 ------
 
-# Workshop Organizing Committee 
+## Workshop Organizing Committee 
 
 - Douglas Burdick (IBM Research) 
 - Dave Lewis (Reveal-Brainspace) 
@@ -105,7 +105,7 @@ Email: <document-intelligence@outlook.com>
 
 ------
 
-# Program Committee Chair 
+## Program Committee Chair 
 
 Benjamin Han (Microsoft Azure AI)
 
