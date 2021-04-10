@@ -27,9 +27,10 @@ understanding, the majority have focused on documents found on the web which
 fail to capture the complexity of analysis and types of understanding needed
 across business documents. Realizing the vision of Document Intelligence
 remains a research challenge that requires a multi-disciplinary perspective
-spanning not only natural language processing and understanding, but also
-computer vision, knowledge representation and reasoning, data mining, knowledge
-discovery, information retrieval, and more -- all of which have been profoundly
+spanning not only <ins>natural language processing and understanding</ins>, but also
+<ins>computer vision</ins>, <ins>layout understanding</ins>, 
+<ins>knowledge representation and reasoning</ins>, <ins>data mining</ins>, <ins>knowledge
+discovery</ins>, <ins>information retrieval</ins>, and more -- all of which have been profoundly
 impacted and advanced by deep learning in the last few years. This workshop
 aims to explore and advance the current state of research and practice,
 including but not limited to the following topics: 
@@ -61,7 +62,7 @@ Document Intelligence.
 
 ## Submissions 
 
-We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to four (4) pages, not including references. Submissions that do not meet the formatting requirements will be rejected without review.
+We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to **<ins>four (4) pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 
