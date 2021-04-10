@@ -7,7 +7,7 @@ permalink: /organization/
 
 ------
 
-# Organizing Committee
+## Organizing Committee
 (in alphabetical order)
 
 **[Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic)** is a Research Staff Member at **IBM Research** - Almaden
@@ -72,7 +72,7 @@ Research Staff Member at IBM’s Almaden Research Center. He has a PhD
 from the University of Michigan.
 
 ------
-# Program Committee Chair
+## Program Committee Chair
 
 **[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
 and development of the natural language services on **Microsoft Azure
