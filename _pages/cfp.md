@@ -11,8 +11,6 @@ redirect_from:
 
 ------
 
-Past: [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
- 
 ## Abstract 
 
 Business documents are central to the operation of all organizations, and they
@@ -112,5 +110,13 @@ Email: <document-intelligence@outlook.com>
 ## Program Committee Chair 
 
 [Benjamin Han](https://www.linkedin.com/in/benjaminhan/) (Microsoft Azure AI)
+
+------
+
+## Past Workshop
+
+- [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
+- DI-2019 Report: [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020].(https://www.kdd.org/exploration_files/4._CR._29._DI_Workshop_Report_-_Camera_Ready-2.pdf)
+ 
 
 
