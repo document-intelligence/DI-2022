@@ -63,9 +63,13 @@ Document Intelligence.
 
 ## Submissions 
 
-We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to four (4) pages, not including references. Submissions that do not meet the formatting requirements will be rejected without review. 
+We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to four (4) pages, not including references. Submissions that do not meet the formatting requirements will be rejected without review.
+
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
-The review process is double-blind. The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics. It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
+
+The review process is double-blind. The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics.
+
+It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
 ------
 
@@ -97,16 +101,16 @@ Email: <document-intelligence@outlook.com>
 
 ## Workshop Organizing Committee 
 
-- Douglas Burdick (IBM Research) 
-- Dave Lewis (Reveal-Brainspace) 
-- Yijuan (Lucy) Lu (Microsoft Azure AI) 
-- Hamid Motahari (Macquarie University) 
-- Sandeep Tata (Google Research) 
+- [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) (IBM Research) 
+- [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) (Reveal-Brainspace) 
+- [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) (Microsoft Azure AI) 
+- [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) (Macquarie University) 
+- [Sandeep Tata](https://research.google/people/SandeepTata/) (Google Research) 
 
 ------
 
 ## Program Committee Chair 
 
-Benjamin Han (Microsoft Azure AI)
+[Benjamin Han](https://www.linkedin.com/in/benjaminhan/) (Microsoft Azure AI)
 
 
