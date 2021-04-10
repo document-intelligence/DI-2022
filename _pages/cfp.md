@@ -81,8 +81,9 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 ## Important Dates 
 
 - Paper Submission Deadline: May 10, 2021. 
-- Paper Notification Date: June 10, 2021 
-- Virtual Workshop Date: August 14-18, 2021 
+- Paper Notification Date: June 10, 2021. 
+- Paper Final Version Due: July 1, 2021.
+- Virtual Workshop Date: August 14-18, 2021.
 
 ------
 
