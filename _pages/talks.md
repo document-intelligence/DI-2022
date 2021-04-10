@@ -5,7 +5,7 @@ sitemap: false
 permalink: /talks/
 ---
 
-(in alphabetical order)
+<center>(in alphabetical order)</center>
 
 **[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)**, Associate Professor, School of Information and Dept. of Electrical Engineering and Computer Science, University of Michigan.
 
