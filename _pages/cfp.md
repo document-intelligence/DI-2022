@@ -93,9 +93,15 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
-## Contact Information: 
+## Contact Information
 
 Email: <document-intelligence@outlook.com>
+
+------
+
+## Workshop Registration
+
+Workshop registration will be processed with the main KDD 2021 conference: <https://kdd.org/kdd2021/>
 
 ------
 
