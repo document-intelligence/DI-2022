@@ -11,6 +11,12 @@ redirect_from:
 
 ------
 
+## UPDATES
+
+- April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
+- April 15: Paper submission deadline extended to May 17, 2021.
+
+
 ## Abstract 
 
 Business documents are central to the operation of all organizations, and they
@@ -62,7 +68,7 @@ Document Intelligence.
 
 ## Submissions 
 
-We are soliciting submissions of short papers in PDF format and formatted according to the new Standard ACM Conference Proceedings Template. Submissions are limited to **<ins>four (4) pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
+We are soliciting submissions of short papers in PDF format and formatted according to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template). Submissions are limited to **<ins>four (4) pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 
