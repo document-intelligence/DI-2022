@@ -25,12 +25,6 @@ permalink: /talks/
 
 ------
 
-**[Ting Liu](https://www.linkedin.com/in/ting-liu-3a204a23/)**, Principal Engineer and Director at Google Cloud AI.
-
-<img src='/DI-2021/images/Picture2.jpg'>
-
-------
-
 **[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)**, Associate Professor at Computer Science, Johns Hopkins University.
 
 <img src='/DI-2021/images/Picture4.jpg'>
