@@ -13,6 +13,7 @@ redirect_from:
 
 ## UPDATES
 
+- April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
 - April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
 - April 15: Paper submission deadline extended to May 17, 2021.
 
@@ -72,7 +73,7 @@ We are soliciting submissions of short papers in PDF format and formatted accord
 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 
-The review process is double-blind. The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics.
+The review process is double-blind, and we follow the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest). The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics.
 
 It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
