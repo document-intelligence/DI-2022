@@ -13,7 +13,7 @@ redirect_from:
 
 ## UPDATES
 
-- May 14: Paper submission deadline extended to May 21, 2021 (Friday).
+- May 14: Paper submission deadline extended to <ins>May 21, 2021 (Friday)</ins>.
 - May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
 - April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
 - April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
