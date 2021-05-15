@@ -17,7 +17,7 @@ redirect_from:
 - May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
 - April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
 - April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
-- April 15: Paper submission deadline extended to May 17, 2021.
+- ~~April 15: Paper submission deadline extended to May 17, 2021.~~
 
 
 ## Abstract 
