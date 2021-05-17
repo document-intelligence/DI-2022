@@ -13,6 +13,7 @@ redirect_from:
 
 ## UPDATES
 
+- May 17: Clarification that [workshop papers will not be archived with the main KDD proceedings](#wokshop_proceedings).
 - May 14: Paper submission deadline extended to <ins>May 21, 2021 (Friday)</ins> (anywhere on Earth).
 - May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
 - April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
@@ -85,6 +86,17 @@ Submissions can be original research contributions, or abstracts of papers previ
 The review process is double-blind, and we follow the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest). The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics.
 
 It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
+
+
+<div id="workshop_proceedings"></div>
+
+### Workshop Proceedings
+
+Please note as per the [KDD Call for Workshop Proposals](https://www.kdd.org/kdd2021/calls/view/kdd-2021-call-for-workshop-proposals): 
+
+>Note: Workshop papers will not be archived in the ACM Digital Library. However, workshop organizers may set up any archived publication mechanism that best suits their workshop.
+
+Di-2021 accepted papers will _not_ be archived in the main KDD 2021 proceedings. We will instead host the accepted papers on this website (https://aka.ms/di-2021) indefinitely.
 
 ------
 
