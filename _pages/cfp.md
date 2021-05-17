@@ -96,7 +96,7 @@ Please note as per the [KDD Call for Workshop Proposals](https://www.kdd.org/kdd
 
 >Note: Workshop papers will not be archived in the ACM Digital Library. However, workshop organizers may set up any archived publication mechanism that best suits their workshop.
 
-Di-2021 accepted papers will _not_ be archived in the main KDD 2021 proceedings. We will instead host the accepted papers on this website (https://aka.ms/di-2021) indefinitely.
+DI-2021 accepted papers will _not_ be archived in the main KDD 2021 proceedings. We will instead host the accepted papers on this website (https://aka.ms/di-2021) indefinitely.
 
 ------
 
