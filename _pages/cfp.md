@@ -14,7 +14,7 @@ redirect_from:
 ## UPDATES
 
 - May 17: Clarification that [workshop papers will not be archived with the main KDD proceedings](#workshop_proceedings).
-- May 14: Paper submission deadline extended to <ins>May 21, 2021 (Friday)</ins> (anywhere on Earth).
+- May 14: Paper submission deadline extended to <ins>23:59 on May 21, 2021 (Friday)</ins> (anywhere on Earth).
 - May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
 - April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
 - April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
@@ -108,7 +108,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ## Important Dates
 
-- Paper Submission Deadline: ~~May 10, 2021~~ May 21, 2021 (anywhere on Earth).
+- Paper Submission Deadline: ~~May 10, 2021~~ 23:59 on May 21, 2021 (anywhere on Earth).
 - Paper Notification Date: June 10, 2021. 
 - Paper Final Version Due: July 1, 2021.
 - Virtual Workshop Date: August 14-18, 2021.
