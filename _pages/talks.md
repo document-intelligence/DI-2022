@@ -8,6 +8,12 @@ permalink: /talks/
 <center>(in alphabetical order)</center><br>
 
 <img src='/DI-2021/images/Picture1.png' align="right">**[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)**, Associate Professor, School of Information and Dept. of Electrical Engineering and Computer Science, University of Michigan.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ------
 
@@ -16,6 +22,12 @@ permalink: /talks/
 ------
 
 <img src='/DI-2021/images/Picture5.jpg' align="right">**[Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)**, Senior Manager and Principal Research Staff Member at IBM Research.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ------
 
@@ -24,8 +36,20 @@ permalink: /talks/
 ------
 
 <img src='/DI-2021/images/Picture4.jpg' align="right">**[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)**, Associate Professor at Computer Science, Johns Hopkins University.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ------
 
 <img src='/DI-2021/images/Picture6.jpg' align="right">**[Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/)**, Partner Engineering Manager at Microsoft Azure AI; IEEE Fellow.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
