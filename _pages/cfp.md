@@ -13,6 +13,9 @@ redirect_from:
 
 ## UPDATES
 
+- June 3: In the [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) section:
+  - Welcome [Don Metzler](https://research.google/people/DonaldMetzler/) as our latest addition to the list of invited speakers!
+  - Added bio for our invited speaker Prof. [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
 - May 17: Clarification that [workshop papers will not be archived with the main KDD proceedings](#workshop_proceedings).
 - May 14: Paper submission deadline extended to <ins>23:59 on May 21, 2021 (Friday)</ins> (anywhere on Earth).
 - May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
