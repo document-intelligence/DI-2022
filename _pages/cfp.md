@@ -155,7 +155,7 @@ Workshop registration will be processed with the main KDD 2021 conference: <http
 ## Past Workshop
 
 - DI-2019: [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
-- DI-2019 Report: [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020](https://www.kdd.org/exploration_files/4._CR._29._DI_Workshop_Report_-_Camera_Ready-2.pdf).
+- DI-2019 Report: [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020](https://www.microsoft.com/en-us/research/publication/a-report-on-the-first-workshop-on-document-intelligence-di-at-neurips-2019/).
  
 
 
