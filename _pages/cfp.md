@@ -13,7 +13,7 @@ redirect_from:
 
 ## UPDATES
 
-- June 7: Updated workshop date & time: 8am-6pm Pacific Time, August 15 (Sunday), 2021.
+- June 7: Updated workshop date & time: <ins>8am-6pm Pacific Time, August 15 (Sunday), 2021</ins>.
 - June 3: In the [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) section:
   - Welcome [Don Metzler](https://research.google/people/DonaldMetzler/) as our latest addition to the list of invited speakers!
   - Added bio for our invited speaker Prof. [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
