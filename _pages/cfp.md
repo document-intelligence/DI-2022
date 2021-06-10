@@ -13,7 +13,7 @@ redirect_from:
 
 ## UPDATES
 
-- June 7: Updated workshop date & time: <ins>8am-6pm Pacific Time, August 15, 2021 (Sunday)</ins>.
+- June 7: Updated workshop date & time: <ins>8am-6pm August 15, 2021 PDT (Sunday)</ins>.
 - June 3: In the [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) section:
   - Welcome [Don Metzler](https://research.google/people/DonaldMetzler/) as our latest addition to the list of invited speakers!
   - Added bio for our invited speaker Prof. [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
@@ -115,7 +115,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 - Paper Submission Deadline: ~~May 10, 2021~~ 23:59 on May 21, 2021 (anywhere on Earth).
 - Paper Notification Date: June 10, 2021. 
 - Paper Final Version Due: July 1, 2021.
-- Virtual Workshop Date: ~~August 14-18,~~ 8am-6pm Pacific Time, August 15, 2021 (Sunday).
+- Virtual Workshop Date: ~~August 14-18,~~ 8am-6pm, August 15, 2021 PDT (Sunday).
 
 ------
 
