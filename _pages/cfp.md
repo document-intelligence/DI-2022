@@ -13,6 +13,7 @@ redirect_from:
 
 ## UPDATES
 
+- June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/).
 - June 7: Updated workshop date & time: <ins>8am-6pm August 15, 2021 PDT (Sunday)</ins>.
 - June 3: In the [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) section:
   - Welcome [Don Metzler](https://research.google/people/DonaldMetzler/) as our latest addition to the list of invited speakers!
