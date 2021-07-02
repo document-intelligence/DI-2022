@@ -18,7 +18,7 @@ The workshop contains the following elements:
 
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
-| 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| Ben 	|
+| 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
 | 8:10 	| 8:40 	| 0:30 	| Invited Talk 1 	| TBD 	|
 | 8:40 	| 9:40 	| 1:00 	| Paper Session 1 	| TBD 	|
 | 9:40 	| 10:00 	| 0:20 	| COFFEE BREAK 1 	|  	|
@@ -32,8 +32,8 @@ The workshop contains the following elements:
 | 14:20 	| 14:50 	| 0:30 	| Invited Talk 5  	| TBD 	|
 | 14:50 	| 15:10  	| 0:20 	| COFFEE BREAK 3 	|  	|
 | 15:10 	| 15:40  	| 0:30 	| Invited Talk 6 	| TBD 	|
-| 15:40  	| 16:40  	| 1:00 	| Panel: DI Research Challenges & Directions 	| TBD 	|
+| 15:40  	| 16:40  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/)	|
 | 16:40 	| 17:00 	| 0:20 	| COFFEE BREAK 4 	|  	|
-| 17:00  	| 17:30  	| 0:30 	| Talk: DI 2021 Best Paper Presentation 	| Ben 	|
-| 17:30 	| 17:45 	| 0:15 	| Workshop Summary and Closing Remarks 	| Ben 	|
+| 17:00  	| 17:30  	| 0:30 	| Talk: DI 2021 Best Paper Presentation 	| TBD |
+| 17:30 	| 17:45 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
 
