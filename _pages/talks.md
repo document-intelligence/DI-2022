@@ -8,15 +8,10 @@ permalink: /talks/
 <center>(in alphabetical order)</center><br>
 
 - **Speaker:** <img src='/DI-2021/images/Picture1.png' align="right">**[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)**
-- **Title:** TBD
-- **Abstract:** TBD
-- **Bio:** **[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)**, Associate Professor, School of Information and Dept. of Electrical Engineering and Computer Science, University of Michigan.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- **Title:** Enhancing document representations using analysis of content difficulty: models, applications, and insights
+- **Abstract:** This talk will discuss how enhancing document representations with analysis of language complexity and difficulty can lead to a surprisingly wide range of new applications and insights into how people interact with content in both business and educational settings. Analyzing the difficulty of language has a history going back to the ancient Greeks, who understood that a legal argument or analysis was of little persuasive value if its audience could not understand it. Classic 20th century text readability formulas, such as Flesch-Kincaid, combined statistics like average sentence length and average number of syllables in a text to estimate its readability. However, the limitations of these simple traditional measures, including lack of flexibility for new tasks and populations and robustness for non-traditional documents, has led to a new branch of natural language processing research that has developed richer, more effective data-driven computational models of reading comprehension and text complexity [1]. First I’ll give a brief summary of recent advances in modeling content difficulty and complexity, including my own work on statistical models of readability and deep learning for predicting the informativeness of text. Then I’ll give some examples of insights that derive from applying these methods for creating richer, difficulty-based document representations, using empirical methods ranging from in-lab user studies with eyetracking, to large-scale commercial search interaction data over millions of sessions and Web pages. Finally, I’ll touch on some on-going work and potential future directions in educational scenarios for understanding and supporting learners, toward the goal of high quality, personalized learning experiences.
+- **Bio:** **[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)** is an Associate Professor of Information and Computer Science at the University of Michigan. His research explores models, algorithms, and software systems for optimally connecting people with information, especially toward educational goals. His research has been applied to real-world systems ranging from intelligent tutoring systems to commercial Web search engines. Kevyn has also pioneered techniques for using machine learning to model the reading difficulty of text, for creating robust search and recommender systems that maximize effective results while minimizing the risk of worst-case errors, and for understanding and supporting how people learn language. He received his Ph.D. from the Language Technologies Institute at Carnegie Mellon University and B.Math from the University of Waterloo. Before joining the University of Michigan in 2013, he was a researcher in the Context, Learning, and User Experience for Search (CLUES) group at Microsoft Research. Recent highlights include serving as ACM SIGIR 2018 General Co-Chair, being named co-recipient of Coursera’s Outstanding Educator Award, and recognition as an ACM Distinguished Member for outstanding scientific contributions to computing.
+- **Additional info**: K. Collins-Thompson. [Computational assessment of text readability: a survey of current and future research](http://www-personal.umich.edu/~kevynct/pubs/ITL-readability-invited-article-v10-camera.pdf). In: François, Thomas and Delphine Bernhard (eds.), Recent Advances in Automatic Readability Assessment and Text Simplification. Special issue of International Journal of Applied Linguistics 165:2 (2014). (pp. 97-135)
 
 ------
 
@@ -51,13 +46,7 @@ permalink: /talks/
 - **Title:** A case for statutory reasoning
 - **Abstract:** Natural Language Processing is increasingly pursued as an applied Machine Learning problem, with researchers focused on: building large numbers of examples for new tasks, designing models that require less examples, and understanding the errors and capabilities of pretrained representations.  Legal NLP is no exception, given large collections of decided cases, there is active work in automated legal reasoning as classification.  However, within Legal NLP there is a task offering exciting, real world challenges for language understanding that goes beyond pattern classification: statutory reasoning.  For some legal domains, such as US Federal Tax Law, the number of publicly-decided consequential cases each year may be limited (e.g., those involving a large multinational corporation that does not settle out of public view).  Further, in reaction to such cases the legal code is regularly modified, closing revealed loopholes.  This leads to a naturally occurring task that pairs single examples (a case) with salient prescriptive rules (statutory texts), and where those rules may change between each example.  New cases similar to those previously seen may no longer result in the same judgement, requiring any automated solution to rely more explicitly on understanding the salient law.
 This work is joint with [Andrew Blair-Stanek](https://www.law.umaryland.edu/directory/profile.asp?id=893) and [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/).
-- **Bio:** **[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)**, Associate Professor at Computer Science, Johns Hopkins University.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- **Bio:** **[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)** is an Associate Professor of Computer Science at the Johns Hopkins University, and a researcher at Microsoft Semantic Machines. His work focuses on natural language understanding.
 
 ------
 
