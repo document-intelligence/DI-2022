@@ -48,8 +48,9 @@ permalink: /talks/
 ------
 
 - **Speaker:** <img src='/DI-2021/images/Picture4.jpg' align="right">[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)
-- **Title:** TBD
-- **Abstract:** TBD
+- **Title:** A case for statutory reasoning
+- **Abstract:** Natural Language Processing is increasingly pursued as an applied Machine Learning problem, with researchers focused on: building large numbers of examples for new tasks, designing models that require less examples, and understanding the errors and capabilities of pretrained representations.  Legal NLP is no exception, given large collections of decided cases, there is active work in automated legal reasoning as classification.  However, within Legal NLP there is a task offering exciting, real world challenges for language understanding that goes beyond pattern classification: statutory reasoning.  For some legal domains, such as US Federal Tax Law, the number of publicly-decided consequential cases each year may be limited (e.g., those involving a large multinational corporation that does not settle out of public view).  Further, in reaction to such cases the legal code is regularly modified, closing revealed loopholes.  This leads to a naturally occurring task that pairs single examples (a case) with salient prescriptive rules (statutory texts), and where those rules may change between each example.  New cases similar to those previously seen may no longer result in the same judgement, requiring any automated solution to rely more explicitly on understanding the salient law.
+This work is joint with [Andrew Blair-Stanek](https://www.law.umaryland.edu/directory/profile.asp?id=893) and [Nils Holzenberger](http://www.cs.jhu.edu/~nholzen1/).
 - **Bio:** **[Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/)**, Associate Professor at Computer Science, Johns Hopkins University.
 <br>
 <br>
