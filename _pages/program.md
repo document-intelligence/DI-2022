@@ -20,13 +20,13 @@ The workshop contains the following elements:
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
 | 8:10 	| 8:40 	| 0:30 	| Invited Talk 1 - [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/): _Visual Document Intelligence in the Wild_	| [Sandeep Tata](https://research.google/people/SandeepTata/)	|
-| 8:40 	| 9:40 	| 1:00 	| Paper Session 1 - OCR & Visual Document Intelligence 	| [Sandeep Tata](https://research.google/people/SandeepTata/)	|
+| 8:40 	| 9:40 	| 1:00 	| Presentation Session 1 - OCR & Visual Document Intelligence 	| [Sandeep Tata](https://research.google/people/SandeepTata/)	|
 | 9:40 	| 10:00 	| 0:20 	| COFFEE BREAK 1 	|  	|
 | 10:00 	| 10:30 	| 0:30 	| Invited Talk 2 - [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/): _Enhancing Document Representations Using Analysis of Content Difficulty: Models, Applications, and Insights_	| [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) |
-| 10:30 	| 11:30 	| 1:00 	| Paper Session 2 - Machine Learning 	| [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) 	|
+| 10:30 	| 11:30 	| 1:00 	| Presentation Session 2 - Machine Learning 	| [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) 	|
 | 11:30  	| 12:00 	| 0:30 	| LUNCH BREAK  	|  	|
 | 12:00 	| 12:30 	| 0:30 	| Invited Talk 3 - [Don Metzler](https://research.google/people/DonaldMetzler/): _Challenges in Enterprise Search and Intelligence_	| [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) |
-| 12:30 	| 13:30 	| 1:00 	| Paper Session 3 - Applications	| [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) |
+| 12:30 	| 13:30 	| 1:00 	| Presentation Session 3 - Applications	| [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) |
 | 13:30 	| 13:50 	| 0:20 	| COFFEE BREAK 2 	|  	|
 | 13:50  	| 14:20 	| 0:30 	| Invited Talk 4 - [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji): _What’s in a Chemical Entity?_	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
 | 14:20 	| 14:50 	| 0:30 	| Invited Talk 5 - [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/): _A Case for Statutory Reasoning_	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
