@@ -94,7 +94,6 @@ The review process is double-blind, and we follow the [Conflict of Interest Poli
 
 It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
-
 <div id="workshop_proceedings"></div>
 
 ### Workshop Proceedings
@@ -110,6 +109,12 @@ DI-2021 accepted papers will _not_ be archived in the main KDD 2021 proceedings.
 ## Submission URL 
 
 Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
+
+------
+
+## Pre-recording a Presentation Video
+
+[DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>)
 
 ------
 
