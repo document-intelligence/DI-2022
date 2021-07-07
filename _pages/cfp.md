@@ -13,6 +13,7 @@ redirect_from:
 
 ## UPDATES
 
+- July 6: Added section on [pre-recording presentation videos](#pre-recording).
 - July 2: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 - July 1: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/).
 - June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/) and [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
@@ -112,9 +113,11 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
+<div id="pre-recording"></div>
+
 ## Pre-recording a Presentation Video
 
-[DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>)
+Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks. We will send out instructions on how to upload the video files soon!
 
 ------
 
