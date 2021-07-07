@@ -16,6 +16,7 @@ redirect_from:
 - July 6:
   - Added section on [pre-recording presentation videos](#pre-recording).
   - Added Video/slides upload due: 23:59 on August 1, 2021 (anywhere on Earth).
+  - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/).
 - July 2: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 - July 1: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/).
 - June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/) and [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
