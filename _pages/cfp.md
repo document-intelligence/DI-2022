@@ -13,7 +13,9 @@ redirect_from:
 
 ## UPDATES
 
-- July 6: Added section on [pre-recording presentation videos](#pre-recording).
+- July 6:
+  - Added section on [pre-recording presentation videos](#pre-recording).
+  - Added Video/slides upload due: 23:59 on August 1, 2021 (anywhere on Earth).
 - July 2: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 - July 1: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/).
 - June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/) and [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
@@ -126,6 +128,7 @@ Invited speakers and presenters please follow the instructions given in [DI-2021
 - Paper Submission Deadline: ~~May 10, 2021~~ 23:59 on May 21, 2021 (anywhere on Earth).
 - Paper Notification Date: June 10, 2021. 
 - Paper Final Version Due: July 1, 2021.
+- Pre-recorded Video and Slides Upload Due: 23:59 on August 1, 2021 (anywhere on Earth).
 - Virtual Workshop Date: ~~August 14-18,~~ 8am-6pm, August 15, 2021 PDT (Sunday).
 
 ------
