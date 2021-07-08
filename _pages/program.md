@@ -10,7 +10,7 @@ permalink: /program/
 The workshop contains the following elements:
 
 1. Invited talks presenting research results, practices, and challenges on DI.
-2. Paper sessions of contributed and reviewed work on the topics of DI.
+2. Presentation sessions of contributed and reviewed work on the topics of DI.
 3. Panel discussion reflecting on the challenges and directions on DI. 
 4. A summary derived from the discussion and conclusion of the workshop.
 
