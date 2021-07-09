@@ -13,6 +13,10 @@ redirect_from:
 
 ## UPDATES
 
+- July 6:
+  - Added section on [pre-recording presentation videos](#pre-recording).
+  - Added Video/slides upload due: 23:59 on August 1, 2021 (anywhere on Earth).
+  - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/).
 - July 2: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 - July 1: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/).
 - June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/) and [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
@@ -94,7 +98,6 @@ The review process is double-blind, and we follow the [Conflict of Interest Poli
 
 It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
-
 <div id="workshop_proceedings"></div>
 
 ### Workshop Proceedings
@@ -113,11 +116,20 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ------
 
+<div id="pre-recording"></div>
+
+## Pre-recording a Presentation Video
+
+Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks. We will send out instructions on how to upload the video files soon!
+
+------
+
 ## Important Dates
 
 - Paper Submission Deadline: ~~May 10, 2021~~ 23:59 on May 21, 2021 (anywhere on Earth).
 - Paper Notification Date: June 10, 2021. 
 - Paper Final Version Due: July 1, 2021.
+- Pre-recorded Video and Slides Upload Due: 23:59 on August 1, 2021 (anywhere on Earth).
 - Virtual Workshop Date: ~~August 14-18,~~ 8am-6pm, August 15, 2021 PDT (Sunday).
 
 ------
