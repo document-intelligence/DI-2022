@@ -122,10 +122,9 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 <div id="pre-recording"></div>
 
-## Pre-recording a Presentation Video and Upload Video & Slides
+## Pre-recording Videos and Upload Videos & Slides
 
-Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
-
+- Invited speakers and presenters please follow the instructions in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
 - Please upload the video and slides to <https://cmt3.research.microsoft.com/DI2021> (same as paper submission site)
 - Please upload as supplementary material.
 - You can upload up to 3 files.
