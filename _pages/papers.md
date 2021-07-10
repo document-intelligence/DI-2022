@@ -64,10 +64,10 @@ By filtering non-textual elements from the image we can utilize document-level O
 
 | # | Title | Session | 
 |:- |:- |:-: |
-| 1 | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](#paper_3) | 1 |
-| 2 | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](#paper_10) | 2 |
+| 1 | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](#paper_3) | 2 |
+| 2 | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](#paper_10) | 3 |
 | 3 | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](#paper_9) | 1 |
-| 4 | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](#paper_6) | 1 |
+| 4 | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](#paper_6) | 3 |
 | 5 | [Towards Semantic Search for Community Question Answering for Mortgage Officers](#paper_17) | 3 |
 
 ------
