@@ -6,7 +6,7 @@ permalink: /papers/
 ---
 
 ## Papers
-(in alphabetical order)
+(in alphabetical order; authors marked by * are the corresponding authors)
 
 | # | Title | Session | 
 |:- |:- |:-: |
@@ -23,7 +23,7 @@ permalink: /papers/
 
 ------
 
-(authors marked by * are the corresponding authors)
+### Details
 
 * <a name="paper_7"/>[CHARTER: heatmap-based multi-type chart data extraction](</DI-2021/files/di-2021_final_7.pdf>)
   * **Authors**: Joseph Shtok (IBM-Reseach)*; Sivan Harary (IBM-Research); Ophir Azulai (IBM-Research); Adi Raz Goldfarb (IBM Research); Assaf Arbelle (IBM Research AI); Leonid Karlinsky (IBM-Research)
@@ -62,7 +62,7 @@ By filtering non-textual elements from the image we can utilize document-level O
 ------
 
 ## Posters
-(in alphabetical order)
+(in alphabetical order; authors marked by * are the corresponding authors)
 
 | # | Title | Session | 
 |:- |:- |:-: |
@@ -74,7 +74,7 @@ By filtering non-textual elements from the image we can utilize document-level O
 
 ------
 
-(authors marked by * are the corresponding authors)
+### Details
 
 * <a name="paper_3"/>[Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](</DI-2021/files/di-2021_final_3.pdf>)
   * **Authors**: Nerya Or (Google)*; Shlomo Urbach (Google)
