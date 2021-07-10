@@ -11,6 +11,10 @@ redirect_from:
 
 ## UPDATES
 
+- July 10:
+  - Announcing [accepted papaers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
+  - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/) now contains session details.
+  - We thank our [41 paper reviewers](https://document-intelligence.github.io/DI-2021/organization/#reviewers)! We can't have a successful workshop without you!
 - July 6:
   - Added section on [pre-recording presentation videos](#pre-recording).
   - Added Video/slides upload due: 23:59 on August 1, 2021 (anywhere on Earth).
