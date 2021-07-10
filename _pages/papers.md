@@ -1,5 +1,5 @@
 ---
-title: <center>Accepted Papers</center>
+title: <center>Accepted Papers & Posters</center>
 excerpt: "Papers"
 sitemap: false
 permalink: /papers/
