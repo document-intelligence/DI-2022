@@ -9,8 +9,6 @@ redirect_from:
   - /cfp.html
 ---
 
-------
-
 ## UPDATES
 
 - July 6:
@@ -31,6 +29,7 @@ redirect_from:
 - April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
 - ~~April 15: Paper submission deadline extended to May 17, 2021.~~
 
+------
 
 ## Abstract 
 
