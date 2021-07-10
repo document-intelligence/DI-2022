@@ -14,6 +14,7 @@ redirect_from:
 - July 10:
   - Announcing [accepted papaers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
   - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/) now contains session details.
+  - Added details on uploading video/slides [here](#pre-recording).
   - We thank our [41 paper reviewers](https://document-intelligence.github.io/DI-2021/organization/#reviewers)! We can't have a successful workshop without you!
 - July 6:
   - Added section on [pre-recording presentation videos](#pre-recording).
@@ -121,9 +122,15 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 <div id="pre-recording"></div>
 
-## Pre-recording a Presentation Video
+## Pre-recording a Presentation Video and Upload Video & Slides
 
-Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks. We will send out instructions on how to upload the video files soon!
+Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
+
+- Please upload the video and slides to <https://cmt3.research.microsoft.com/DI2021> (same as paper submission site)
+- Please upload as supplementary material.
+- You can upload up to 3 files.
+- The file size limit is 700 MB.
+- Accepted file format: pptx (PowerPoint), pdf, mp4 (video)
 
 ------
 
