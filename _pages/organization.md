@@ -100,47 +100,47 @@ KDD 2018.
 
 The DI-2021 Organizing Committee wishes to express its sincere gratitude to the help from our paper reviewers. Without your thorough and timely reviewing, we could not have organized a successful workshop! THANK YOU!
 
-| Full Name | Affiliation |
-|:-:  |:-:  |
-| Charles Beller | IBM |
-| Tongfei Chen | Microsoft |
-| Freddy Chua | Ernst & Young |
-| John Corring | Microsoft |
-| Daniel Campos Daniel Campos | University of Illinois at Urbana-Champaign |
-| Marina Danilevsky | IBM |
-| Jonathan Degange | Ernst & Young |
-| Yasuhisa Fujii | Google |
-| [Revanth Gangi Reddy](https://gangiswag.github.io) | University of Illinois at Urbana-Champaign |
-| Sean Goldberg | Microsoft |
-| Beliz Gunel | Stanford University |
-| Ruining He | Google |
-| Bruce Hedin | H5 |
-| [Hans Henseler](https://www.linkedin.com/in/henseler/) | University of Applied Sciences Leiden |
-| Mehrdad Jabbarzadeh Gangeh | Ernst & Young |
-| Antonio Jose Jimeno Yepes | University of Melbourne |
-| Amanda Jones | H5 |
-| Priyanka Kulkarni | Microsoft |
-| Sameer Kulkarni | Google |
-| Chen-Yu Lee | Google |
-| Manling Li | University of Illinois at Urbana-Champaign |
-| James Mayfield | Johns Hopkins University |
-| Graham McDonald | University of Glasgow |
-| Lesly Miculicich | Microsoft |
-| Mark Noel | Hogan Lovells |
-| Feifei Pan | Rensselaer Polytechnic Institute |
-| Navneet Potti | Google |
-| Xiaoqi Ren | Google |
-| Herbert Roitblat | Mimecast |
-| Amr Sharaf | Microsoft |
-| Ying Sheng | Google |
-| Baoguang Shi | Microsoft |
-| Peter Staar | IBM |
-| Baochen Sun | Microsoft |
-| Dan Tecuci | Ernst & Young |
-| Jyothi Vinjumur | Walmart |
-| Guoxin Wang | Microsoft |
-| Sen Wu | Stanford University |
-| Yuan Xie | Microsoft |
-| Li Yang | Google |
-| Qi Zeng | University of Illinois at Urbana-Champaign |
+| # | Full Name | Affiliation |
+|:-  ||:-:  |:-:  |
+| 1 | Charles Beller | IBM |
+| 2 | Tongfei Chen | Microsoft |
+| 3 | Freddy Chua | Ernst & Young |
+| 4 | John Corring | Microsoft |
+| 5 | Daniel Campos Daniel Campos | University of Illinois at Urbana-Champaign |
+| 6 | Marina Danilevsky | IBM |
+| 7 | Jonathan Degange | Ernst & Young |
+| 8 | Yasuhisa Fujii | Google |
+| 9 | [Revanth Gangi Reddy](https://gangiswag.github.io) | University of Illinois at Urbana-Champaign |
+| 10 | Sean Goldberg | Microsoft |
+| 11 | Beliz Gunel | Stanford University |
+| 12 | Ruining He | Google |
+| 13 | Bruce Hedin | H5 |
+| 14 | [Hans Henseler](https://www.linkedin.com/in/henseler/) | University of Applied Sciences Leiden |
+| 15 | Mehrdad Jabbarzadeh Gangeh | Ernst & Young |
+| 16 | Antonio Jose Jimeno Yepes | University of Melbourne |
+| 17 | Amanda Jones | H5 |
+| 18 | Priyanka Kulkarni | Microsoft |
+| 19 | Sameer Kulkarni | Google |
+| 20 | Chen-Yu Lee | Google |
+| 21 | Manling Li | University of Illinois at Urbana-Champaign |
+| 22 | James Mayfield | Johns Hopkins University |
+| 23 | Graham McDonald | University of Glasgow |
+| 24 | Lesly Miculicich | Microsoft |
+| 25 | Mark Noel | Hogan Lovells |
+| 26 | Feifei Pan | Rensselaer Polytechnic Institute |
+| 27 | Navneet Potti | Google |
+| 28 | Xiaoqi Ren | Google |
+| 29 | Herbert Roitblat | Mimecast |
+| 30 | Amr Sharaf | Microsoft |
+| 31 | Ying Sheng | Google |
+| 32 | Baoguang Shi | Microsoft |
+| 33 | Peter Staar | IBM |
+| 34 | Baochen Sun | Microsoft |
+| 35 | Dan Tecuci | Ernst & Young |
+| 36 | Jyothi Vinjumur | Walmart |
+| 37 | Guoxin Wang | Microsoft |
+| 38 | Sen Wu | Stanford University |
+| 39 | Yuan Xie | Microsoft |
+| 40 | Li Yang | Google |
+| 41 | Qi Zeng | University of Illinois at Urbana-Champaign |
 
