@@ -23,6 +23,8 @@ permalink: /papers/
 
 ------
 
+(authors marked by * are the corresponding authors)
+
 * <a name="paper_7"/>[CHARTER: heatmap-based multi-type chart data extraction](</DI-2021/files/di-2021_final_7.pdf>)
   * **Authors**: Joseph Shtok (IBM-Reseach)*; Sivan Harary (IBM-Research); Ophir Azulai (IBM-Research); Adi Raz Goldfarb (IBM Research); Assaf Arbelle (IBM Research AI); Leonid Karlinsky (IBM-Research)
   * **Abstract**: The digital conversion of information stored in documents is a great source of knowledge. In contrast to the documents text, the conversion of the embedded documents graphics, such as charts and plots, has been much less explored. We present a method and a system for end-to-end conversion of document charts into machine readable tabular data format, which can be easily stored and analyzed in the digital domain. Our approach extracts and analyses charts along with their graphical elements and supporting structures such as legends, axes, titles, and captions. Our detection system is based on neural networks, trained solely on synthetic data, eliminating the limiting factor of data collection. As opposed to previous methods, which detect graphical elements using bounding-boxes, our networks feature auxiliary domain specific heatmaps prediction enabling the precise detection of pie charts, line and scatter plots which do not fit the rectangular bounding-box presumption. Qualitative and quantitative results show high robustness and precision, improving upon previous works on popular benchmarks.
@@ -71,6 +73,8 @@ By filtering non-textual elements from the image we can utilize document-level O
 | 5 | [Towards Semantic Search for Community Question Answering for Mortgage Officers](#paper_17) | 3 |
 
 ------
+
+(authors marked by * are the corresponding authors)
 
 * <a name="paper_3"/>[Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](</DI-2021/files/di-2021_final_3.pdf>)
   * **Authors**: Nerya Or (Google)*; Shlomo Urbach (Google)
