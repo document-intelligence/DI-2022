@@ -101,7 +101,7 @@ KDD 2018.
 The DI-2021 Organizing Committee wishes to express its sincere gratitude to the help from our paper reviewers. Without your thorough and timely reviewing, we could not have organized a successful workshop! THANK YOU!
 
 | # | Full Name | Affiliation |
-|:-  ||:-:  |:-:  |
+|:- |:-:  |:-:  |
 | 1 | Charles Beller | IBM |
 | 2 | Tongfei Chen | Microsoft |
 | 3 | Freddy Chua | Ernst & Young |
