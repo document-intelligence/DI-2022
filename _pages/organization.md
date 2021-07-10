@@ -144,8 +144,3 @@ The DI-2021 Organizing Committee wishes to express its sincere gratitude to the 
 | Li Yang | Google |
 | Qi Zeng | University of Illinois at Urbana-Champaign |
 
-
-
-
-
-
