@@ -10,7 +10,7 @@ permalink: /organization/
 ## Organizing Committee
 (in alphabetical order)
 
-**[Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic)** is a Research Staff Member at **IBM Research** - Almaden
+<img src='/DI-2021/images/DI-2021_doug.jpg' align="right">**[Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic)** is a Research Staff Member at **IBM Research** - Almaden
 currently working on the application of AI and machine learning to
 document understanding, which includes table extraction and
 understanding in addition to inferring document structure. His
@@ -26,7 +26,7 @@ the University of Wisconsin - Madison.
 
 ------
 
-**[Dave Lewis](https://www.linkedin.com/in/daviddlewis/)** is an Executive Vice President for AI Research,
+<img src='/DI-2021/images/DI-2021_dave.jpg' align="right">**[Dave Lewis](https://www.linkedin.com/in/daviddlewis/)** is an Executive Vice President for AI Research,
 Development, and Ethics at **Reveal-Brainspace**. Prior to joining
 Brainspace, he was variously a freelance consultant, corporate
 researcher (Bell Labs, AT&T Labs), research professor, and software
@@ -39,11 +39,11 @@ sampling.
 
 ------
 
-**[Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/)** is a Principal Scientist at **Microsoft Azure AI** where she worked on invoice understanding, OCR core engine, and video understanding in the recent two years. Prior to joining Microsoft, she was an associate professor in the Department of Computer Science at Texas State University. Her major publications appear in leading publication venues in multimedia and computer vision research.  She was the First Place Winner in many challenging retrieval competitions in Eurographics for many years. She received 2015 Texas State Presidential Distinction Award and 2014 College Achievement Award. She also received the Best Paper award from ICME 2013 and ICIMCS 2012. She has obtained many competitive external grants from NSF, US Army, US Department of Defense and Texas Department of Transportation.
+<img src='/DI-2021/images/DI-2021_yijuan.jpg' align="right">**[Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/)** is a Principal Scientist at **Microsoft Azure AI** where she worked on invoice understanding, OCR core engine, and video understanding in the recent two years. Prior to joining Microsoft, she was an associate professor in the Department of Computer Science at Texas State University. Her major publications appear in leading publication venues in multimedia and computer vision research.  She was the First Place Winner in many challenging retrieval competitions in Eurographics for many years. She received 2015 Texas State Presidential Distinction Award and 2014 College Achievement Award. She also received the Best Paper award from ICME 2013 and ICIMCS 2012. She has obtained many competitive external grants from NSF, US Army, US Department of Defense and Texas Department of Transportation.
 
 ------
 
-**[Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)** is an Honorary Professor of Computer Science at
+<img src='/DI-2021/images/DI-2021_hamid.jpg' align="right">**[Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)** is an Honorary Professor of Computer Science at
 **Macquarie University**, Sydney, Australia. Prior to this, he was the
 Head of AI Science at the EY AI Lab in California where he was leading
 a team of AI scientists in text and document understanding. Prior to
@@ -58,7 +58,7 @@ the 1st Workshop on Document Intelligence at NeurIPS 2019.
 
 ------
 
-**[Sandeep Tata](https://research.google/people/SandeepTata/)** is a Software Engineer at **Google Research** and leads a
+<img src='/DI-2021/images/DI-2021_sandeep.jpg' align="right">**[Sandeep Tata](https://research.google/people/SandeepTata/)** is a Software Engineer at **Google Research** and leads a
 research group on information extraction.  Sandeep has published
 dozens of peer-reviewed research articles across a variety of
 disciplines including data management, data mining, natural language
@@ -74,7 +74,7 @@ from the University of Michigan.
 ------
 ## Program Committee Chair
 
-**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
+<img src='/DI-2021/images/DI-2021_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
 and development of the natural language services on **Microsoft Azure
 AI**. His current focus is to democratize the
 state-of-the-art NLP research to serve customers at scale. His
