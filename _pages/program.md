@@ -5,6 +5,10 @@ sitemap: false
 permalink: /program/
 ---
 
+------
+
+## Overall Program (Sunday August 15, 2021)
+
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
