@@ -10,16 +10,16 @@ permalink: /papers/
 
 | # | Title | Session | 
 |:- |:- |:-: |
-| 1 | [CHARTER: heatmap-based multi-type chart data extraction](#paper_7) | 1 |
-| 2 | [Data-Efficient Information Extraction from Form-Like Documents](#paper_13) | 2 |
-| 3 | [Detection Masking for Improved OCR on Noisy Documents](#paper_2) | 1 |
-| 4 | [Efficient Document Image Classification Using Region-Based Graph Neural Network](#paper_18) | 1 |
-| 5 | [Generating and evaluating simulated medical notes: Getting a Natural Language Generation model to give you what you want](#paper_20) | 3 |
-| 6 | [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](#paper_8) | 2 |
-| 7 | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](#paper_22) | 1 |
-| 8 | [Position Masking for Improved Layout-Aware Document Understanding](#paper_21) | 2 |
-| 9 | [SpecToSVA: Circuit Specification Document to SystemVerilog Assertion Translation](#paper_19) | 3 |
-| 10 | [Text Analysis via Binomial Tails](#paper_15) | 2 |
+| 1 | [CHARTER: heatmap-based multi-type chart data extraction](#paper_7) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
+| 2 | [Data-Efficient Information Extraction from Form-Like Documents](#paper_13) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
+| 3 | [Detection Masking for Improved OCR on Noisy Documents](#paper_2) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
+| 4 | [Efficient Document Image Classification Using Region-Based Graph Neural Network](#paper_18) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
+| 5 | [Generating and evaluating simulated medical notes: Getting a Natural Language Generation model to give you what you want](#paper_20) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
+| 6 | [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](#paper_8) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
+| 7 | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](#paper_22) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
+| 8 | [Position Masking for Improved Layout-Aware Document Understanding](#paper_21) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
+| 9 | [SpecToSVA: Circuit Specification Document to SystemVerilog Assertion Translation](#paper_19) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
+| 10 | [Text Analysis via Binomial Tails](#paper_15) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
 
 ------
 
@@ -66,11 +66,11 @@ By filtering non-textual elements from the image we can utilize document-level O
 
 | # | Title | Session | 
 |:- |:- |:-: |
-| 1 | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](#paper_3) | 2 |
-| 2 | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](#paper_10) | 3 |
-| 3 | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](#paper_9) | 1 |
-| 4 | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](#paper_6) | 3 |
-| 5 | [Towards Semantic Search for Community Question Answering for Mortgage Officers](#paper_17) | 3 |
+| 1 | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](#paper_3) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
+| 2 | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](#paper_10) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
+| 3 | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](#paper_9) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
+| 4 | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](#paper_6) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
+| 5 | [Towards Semantic Search for Community Question Answering for Mortgage Officers](#paper_17) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
 
 ------
 
