@@ -24,7 +24,7 @@ permalink: /program/
 | 14:10  	| 14:50 	| 0:40 	| Invited Talk 4: [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji) - [_What’s in a Chemical Entity?_](https://document-intelligence.github.io/DI-2021/talks/#talk_heng)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
 | 14:50 	| 15:30 	| 0:40 	| Invited Talk 5: [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) - [_A Case for Statutory Reasoning_](https://document-intelligence.github.io/DI-2021/talks/#talk_benjamin)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
 | 15:30 	| 15:45  	| 0:15 	| COFFEE BREAK 3 	|  	|
-| 15:45 	| 16:25  	| 0:40 	| Invited Talk 6: [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) - [TBD](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	|
+| 15:45 	| 16:25  	| 0:40 	| Invited Talk 6: [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) - [Towards Deep Table Understanding](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	|
 | 16:25  	| 16:55  	| 0:30 	| Talk: DI 2021 Best Paper Presentation 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 16:55  	| 17:55  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 17:55 	| 18:10 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
