@@ -11,7 +11,7 @@ redirect_from:
 
 ## UPDATES
 
-- July 11: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli).
+- July 11: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao) updated with talk info from [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli).
 - July 10:
   - Announcing [accepted papers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
   - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/) now contains session details.
