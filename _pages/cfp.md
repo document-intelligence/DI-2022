@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- July 11: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao) updated with talk info from [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli).
 - July 10:
   - Announcing [accepted papers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
   - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/) now contains session details.
@@ -122,10 +123,9 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 <div id="pre-recording"></div>
 
-## Pre-recording a Presentation Video and Upload Video & Slides
+## Pre-recording Videos and Upload Videos & Slides
 
-Invited speakers and presenters please follow the instructions given in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
-
+- Invited speakers and presenters please follow the instructions in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
 - Please upload the video and slides to <https://cmt3.research.microsoft.com/DI2021> (same as paper submission site)
 - Please upload as supplementary material.
 - You can upload up to 3 files.

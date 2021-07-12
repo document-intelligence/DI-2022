@@ -23,15 +23,9 @@ permalink: /talks/
 ------
 
 - <a name="talk_yunyao"/>**Speaker:** <img src='/DI-2021/images/DI-2021_talk_yunyao.jpg' align="right">**[Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)**
-- **Title:** TBD
-- **Abstract:** TBD
-- **Bio:** **[Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)**, Senior Manager and Principal Research Staff Member at IBM Research.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- **Title:** Towards Deep Table Understanding
+- **Abstract:** Harvesting information from complex documents such as in financial reports and scientific publications is critical to building AI applications for business and research. Such documents are often in PDF format with critical facts and data conveyed in table and graphs. Extracting such information is essential to extract insights from these documents. In IBM Research, we have a rich agenda in this area that we call [Deep Document Understanding](https://www.research.ibm.com/blog/deep-document-understanding-complex-documents). In this talk, I will focus on our research on Deep Table Understanding --- extracting and understanding tables from PDF documents. I will introduce key challenges in table extraction and understanding and how we address such challenges, from how to acquire data at scale to enable deep neural network models to how to build, customize and evaluate such models. I will also describe how our work enables real-world use cases in domains such as finance and life science. Finally, I will briefly present TableQA, an important downstream task enabled by Deep Table Understanding.
+- **Bio:** **[Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli)** is a Distinguished Research Staff Member and Senior Research Manager at IBM Research - Almaden where she manages the [Scalable Knowledge Intelligence](https://researcher.watson.ibm.com/researcher/view_group.php?id=9820) department, focusing on building next-generation enterprise-scale technologies spanning the AI lifecycle of domain ingestion, knowledge representation, creation and refinement with both data-driven and human-in-the-loop approaches. She currently leads the AI Operation in IBM Research - Almaden and Tokyo. She is a member of IBM Academy of Technology and a Master Inventor. Her key contributions span the areas of natural language processing (NLP), data management, information retrieval, and human computer interaction. She is particularly known for her work in scalable NLP, enterprise search, and database usability. She has built systems, developed solutions, and delivered core technologies to over 20 IBM products under brands such as Watson, InfoSphere, and Cognos. She has published over 70 articles and filed or been granted nearly 50 patents. She co-authored the book "Natural Language Data Management and Interfaces.” Her technical contributions have been recognized by prestigious awards within and outside of IBM on regular basis. She is an ACM Distinguished Member. She was a member of the inaugural New Voices program of the American National Academies (1 out of 18 selected nationwide) and represented US young scientists at World Laureates Forum Young Scientists Forum in 2019 (1 of 4 selected nationwide).<br>Dr. Li has served the database and NLP communities with distinction. She regularly serves as organizer and senior committee member for top conferences such as ACL, NAACL, SIGMOD, and IJCAI. She championed and co-founded NAACL Industry Track, the first ever industry track in a major NLP conference. She received her PhD and master degrees from the University of Michigan, Ann Arbor and undergraduate degrees from Tsinghua University, Beijing, China.
 
 ------
 
