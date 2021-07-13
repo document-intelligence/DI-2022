@@ -146,7 +146,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ## Workshop Website 
 
-<https://aka.ms/di-2021>
+<https://document-intelligence.github.io/DI-2021/> or <https://aka.ms/di-2021>
 
 ------
 
