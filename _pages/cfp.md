@@ -11,7 +11,7 @@ redirect_from:
 
 ## UPDATES
 
-- July 14: **Best Paper of DI-2021** announced! Please join us in congratulating the authors of [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8). The Best Paper will be presented in [its own presentation session](https://document-intelligence.github.io/DI-2021/program/#best_paper) during the workshop!
+- July 14: **Best Paper of DI-2021** is announced! Please join us in congratulating the authors of [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8). The Best Paper will be presented in [its own presentation session](https://document-intelligence.github.io/DI-2021/program/#best_paper) during the workshop!
 - July 11: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao) updated with talk info from [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli).
 - July 10:
   - Announcing [accepted papers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
