@@ -25,7 +25,7 @@ permalink: /program/
 | 14:50 	| 15:30 	| 0:40 	| Invited Talk 5: [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) - [_A Case for Statutory Reasoning_](https://document-intelligence.github.io/DI-2021/talks/#talk_benjamin)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
 | 15:30 	| 15:45  	| 0:15 	| COFFEE BREAK 3 	|  	|
 | 15:45 	| 16:25  	| 0:40 	| Invited Talk 6: [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli) - [Towards Deep Table Understanding](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	|
-| 16:25  	| 16:55  	| 0:30 	| Talk: DI 2021 Best Paper Presentation 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
+| 16:25  	| 16:55  	| 0:30 	| <a name="best_paper"/>Talk: DI 2021 Best Paper Presentation - _[HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8)_ | [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 16:55  	| 17:55  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 17:55 	| 18:10 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
 
@@ -48,7 +48,6 @@ permalink: /program/
 | Presentation | Title | Session | 
 |:- |:- |:-: |
 | Paper | [Data-Efficient Information Extraction from Form-Like Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_13) | 2 |
-| Paper | [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8) | 2 |
 | Paper | [Position Masking for Improved Layout-Aware Document Understanding](https://document-intelligence.github.io/DI-2021/papers/#paper_21) | 2 |
 | Paper | [Text Analysis via Binomial Tails](https://document-intelligence.github.io/DI-2021/papers/#paper_15) | 2 |
 | Poster | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](https://document-intelligence.github.io/DI-2021/papers/#paper_3) | 2 |
