@@ -7,7 +7,7 @@ permalink: /program/
 
 ------
 
-## Overall Program (Sunday August 15, 2021)
+## Overall Program (Sunday August 15, 2021, time in PDT)
 
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
