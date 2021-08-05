@@ -25,7 +25,7 @@ permalink: /program/
 | 14:40 	| 15:20 	| 0:40 	| Invited Talk 5: [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/) - [_A Case for Statutory Reasoning_](https://document-intelligence.github.io/DI-2021/talks/#talk_benjamin)	| [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) |
 | 15:20 	| 15:35  	| 0:15 	| COFFEE BREAK 3 	|  	|
 | 15:35 	| 16:15  	| 0:40 	| Invited Talk 6: [Don Metzler](https://research.google/people/DonaldMetzler/) - [_Challenges in Enterprise Search and Intelligence_](https://document-intelligence.github.io/DI-2021/talks/#talk_don) | [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	|
-| 16:15  	| 16:45  	| 0:30 	| <a name="best_paper"/>DI 2021 Best Paper Presentation: _[HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8)_ | [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
+| 16:15  	| 16:45  	| 0:30 	| <a name="best_paper"/>DI 2021 Best Paper Presentation: _[HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8)_<br><br>[Slides](</DI-2021/files/di-2021_slides_8.pdf>) | [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 16:45  	| 17:45  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |
 | 17:45 	| 18:00 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|
 
@@ -33,34 +33,34 @@ permalink: /program/
 
 ## <a name="session_1"/>Presentation Session 1: OCR & Visual Document Intelligence
 
-| Presentation | Title | Session | 
-|:- |:- |:-: |
-| Paper | [CHARTER: heatmap-based multi-type chart data extraction](https://document-intelligence.github.io/DI-2021/papers/#paper_7) | 1 |
-| Paper | [Detection Masking for Improved OCR on Noisy Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_2) | 1 |
-| Paper | [Efficient Document Image Classification Using Region-Based Graph Neural Network](https://document-intelligence.github.io/DI-2021/papers/#paper_18) | 1 |
-| Paper | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](https://document-intelligence.github.io/DI-2021/papers/#paper_22) | 1 |
-| Poster | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](https://document-intelligence.github.io/DI-2021/papers/#paper_9) | 1 |
+| Presentation | Title | Slides | Video |
+|:- |:- |:-: |:-: |
+| Paper | [CHARTER: heatmap-based multi-type chart data extraction](https://document-intelligence.github.io/DI-2021/papers/#paper_7) | [pdf](</DI-2021/files/di-2021_slides_7.pdf>) | TBD |
+| Paper | [Detection Masking for Improved OCR on Noisy Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_2) | [pptx](</DI-2021/files/di-2021_slides_2.pptx>) | TBD |
+| Paper | [Efficient Document Image Classification Using Region-Based Graph Neural Network](https://document-intelligence.github.io/DI-2021/papers/#paper_18) | [pptx](</DI-2021/files/di-2021_slides_18.pptx>) | TBD |
+| Paper | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](https://document-intelligence.github.io/DI-2021/papers/#paper_22) | [pdf](</DI-2021/files/di-2021_slides_22.pdf>) | TBD |
+| Poster | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](https://document-intelligence.github.io/DI-2021/papers/#paper_9) | [pdf](</DI-2021/files/di-2021_slides_9.pdf>) | TBD |
 
 ------
 
 ## <a name="session_2"/>Presentation Session 2: Machine Learning
 
-| Presentation | Title | Session | 
-|:- |:- |:-: |
-| Paper | [Data-Efficient Information Extraction from Form-Like Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_13) | 2 |
-| Paper | [Position Masking for Improved Layout-Aware Document Understanding](https://document-intelligence.github.io/DI-2021/papers/#paper_21) | 2 |
-| Paper | [Text Analysis via Binomial Tails](https://document-intelligence.github.io/DI-2021/papers/#paper_15) | 2 |
-| Poster | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](https://document-intelligence.github.io/DI-2021/papers/#paper_3) | 2 |
+| Presentation | Title | Slides | Video |
+|:- |:- |:-: |:-: |
+| Paper | [Data-Efficient Information Extraction from Form-Like Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_13) | [pptx](</DI-2021/files/di-2021_slides_13.pptx>) | TBD |
+| Paper | [Position Masking for Improved Layout-Aware Document Understanding](https://document-intelligence.github.io/DI-2021/papers/#paper_21) | [pptx](</DI-2021/files/di-2021_slides_21.pptx>) | TBD |
+| Paper | [Text Analysis via Binomial Tails](https://document-intelligence.github.io/DI-2021/papers/#paper_15) | [pptx](</DI-2021/files/di-2021_slides_15.pptx>) | TBD |
+| Poster | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](https://document-intelligence.github.io/DI-2021/papers/#paper_3) | [pdf](</DI-2021/files/di-2021_slides_3.pdf>) | TBD |
 
 ------
 
 ## <a name="session_3"/>Presentation Session 3: Applications
 
-| Presentation | Title | Session | 
-|:- |:- |:-: |
-| Paper | [Generating and evaluating simulated medical notes: Getting a Natural Language Generation model to give you what you want](https://document-intelligence.github.io/DI-2021/papers/#paper_20) | 3 |
-| Paper | [SpecToSVA: Circuit Specification Document to SystemVerilog Assertion Translation](https://document-intelligence.github.io/DI-2021/papers/#paper_19) | 3 |
-| Poster | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](https://document-intelligence.github.io/DI-2021/papers/#paper_10) | 3 |
-| Poster | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](https://document-intelligence.github.io/DI-2021/papers/#paper_6) | 3 |
-| Poster | [Towards Semantic Search for Community Question Answering for Mortgage Officers](https://document-intelligence.github.io/DI-2021/papers/#paper_17) | 3 |
+| Presentation | Title | Slides | Video |
+|:- |:- |:-: |:-: |
+| Paper | [Generating and evaluating simulated medical notes: Getting a Natural Language Generation model to give you what you want](https://document-intelligence.github.io/DI-2021/papers/#paper_20) | [pdf](</DI-2021/files/di-2021_slides_20.pdf>) | TBD |
+| Paper | [SpecToSVA: Circuit Specification Document to SystemVerilog Assertion Translation](https://document-intelligence.github.io/DI-2021/papers/#paper_19) | [pdf](</DI-2021/files/di-2021_slides_19.pdf>) | TBD |
+| Poster | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](https://document-intelligence.github.io/DI-2021/papers/#paper_10) | [pptx](</DI-2021/files/di-2021_slides_10.pptx>) | TBD |
+| Poster | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](https://document-intelligence.github.io/DI-2021/papers/#paper_6) | [pptx](</DI-2021/files/di-2021_slides_6.pptx>) | TBD |
+| Poster | [Towards Semantic Search for Community Question Answering for Mortgage Officers](https://document-intelligence.github.io/DI-2021/papers/#paper_17) | [pdf](</DI-2021/files/di-2021_slides_17.pdf>) | TBD |
 
