@@ -47,7 +47,7 @@ permalink: /program/
 
 | Presentation | Title | Slides | Video |
 |:- |:- |:-: |:-: |
-| Paper | [Data-Efficient Information Extraction from Form-Like Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_13) | [pptx](</DI-2021/files/di-2021_slides_13.pptx>) | TBD |
+| Paper | [Data-Efficient Information Extraction from Form-Like Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_13) | [pdf](</DI-2021/files/di-2021_slides_13.pdf>) | TBD |
 | Paper | [Position Masking for Improved Layout-Aware Document Understanding](https://document-intelligence.github.io/DI-2021/papers/#paper_21) | [pptx](</DI-2021/files/di-2021_slides_21.pptx>) | TBD |
 | Paper | [Text Analysis via Binomial Tails](https://document-intelligence.github.io/DI-2021/papers/#paper_15) | [pptx](</DI-2021/files/di-2021_slides_15.pptx>) | TBD |
 | Poster | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](https://document-intelligence.github.io/DI-2021/papers/#paper_3) | [pdf](</DI-2021/files/di-2021_slides_3.pdf>) | TBD |
