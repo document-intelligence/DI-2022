@@ -35,7 +35,7 @@ permalink: /program/
 
 | Presentation | Title | Slides | Video |
 |:- |:- |:-: |:-: |
-| Paper | [CHARTER: heatmap-based multi-type chart data extraction](https://document-intelligence.github.io/DI-2021/papers/#paper_7) | [pdf](</DI-2021/files/di-2021_slides_7.pdf>) ||
+| Paper | [CHARTER: heatmap-based multi-type chart data extraction](https://document-intelligence.github.io/DI-2021/papers/#paper_7) | [pdf](</DI-2021/files/di-2021_slides_7.pdf>) | [stream](https://youtu.be/5olxIFRQjyo) |
 | Paper | [Detection Masking for Improved OCR on Noisy Documents](https://document-intelligence.github.io/DI-2021/papers/#paper_2) | [pptx](</DI-2021/files/di-2021_slides_2.pptx>) ||
 | Paper | [Efficient Document Image Classification Using Region-Based Graph Neural Network](https://document-intelligence.github.io/DI-2021/papers/#paper_18) | [pptx](</DI-2021/files/di-2021_slides_18.pptx>) ||
 | Paper | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](https://document-intelligence.github.io/DI-2021/papers/#paper_22) | [pdf](</DI-2021/files/di-2021_slides_22.pdf>) ||
