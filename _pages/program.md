@@ -8,7 +8,7 @@ permalink: /program/
 ------
 
 ## Overall Program (Sunday August 15, 2021, time in PDT)
-
+(all video recordings can be found at [Document Intelligence Workshop @ KDD 2021 YouTube Channel](https://www.youtube.com/channel/UC5RWJ-eO60Lm1UppbT7vHeg/featured))
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|Slides|Video|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|||
