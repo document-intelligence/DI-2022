@@ -13,7 +13,7 @@ permalink: /program/
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|Slides|Video|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|| -- |
-| 8:10 	| 8:50 	| 0:40 	| Invited Talk 1: [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/) - [_Visual Document Intelligence in the Wild_](https://document-intelligence.github.io/DI-2021/talks/#talk_cha)	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| [pdf](</DI-2021/files/di-2021_invited_talk_cha_zhang.pptx>) ||
+| 8:10 	| 8:50 	| 0:40 	| Invited Talk 1: [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/) - [_Visual Document Intelligence in the Wild_](https://document-intelligence.github.io/DI-2021/talks/#talk_cha)	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| <!-- [pdf](</DI-2021/files/di-2021_invited_talk_cha_zhang.pptx>)  --> ||
 | 8:50 	| 9:50 	| 1:00 	| [Presentation Session 1: OCR & Visual Document Intelligence](#session_1) 	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| -- | -- |
 | 9:50 	| 10:05 	| 0:15 	| COFFEE BREAK 1 	| -- | -- | -- |
 | 10:05 	| 10:45 	| 0:40 	| Invited Talk 2: [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) - [_Enhancing Document Representations Using Analysis of Content Difficulty: Models, Applications, and Insights_](https://document-intelligence.github.io/DI-2021/talks/#talk_kevyn) | [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) |||
