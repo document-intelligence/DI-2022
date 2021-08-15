@@ -12,8 +12,8 @@ permalink: /program/
 
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|Slides|Video|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
-| 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|| -- |
-| 8:10 	| 8:50 	| 0:40 	| Invited Talk 1: [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/) - [_Visual Document Intelligence in the Wild_](https://document-intelligence.github.io/DI-2021/talks/#talk_cha)	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| <!-- [pdf](</DI-2021/files/di-2021_invited_talk_cha_zhang.pptx>)  --> ||
+| 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	| [pptx](</DI-2021/files/DI-2021 Opening.pptx>) | -- |
+| 8:10 	| 8:50 	| 0:40 	| Invited Talk 1: [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/) - [_Visual Document Intelligence in the Wild_](https://document-intelligence.github.io/DI-2021/talks/#talk_cha)	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| <!-- [pdf](</DI-2021/files/di-2021_invited_talk_cha_zhang.pdf>)  --> ||
 | 8:50 	| 9:50 	| 1:00 	| [Presentation Session 1: OCR & Visual Document Intelligence](#session_1) 	| [Sandeep Tata](https://research.google/people/SandeepTata/)	| -- | -- |
 | 9:50 	| 10:05 	| 0:15 	| COFFEE BREAK 1 	| -- | -- | -- |
 | 10:05 	| 10:45 	| 0:40 	| Invited Talk 2: [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) - [_Enhancing Document Representations Using Analysis of Content Difficulty: Models, Applications, and Insights_](https://document-intelligence.github.io/DI-2021/talks/#talk_kevyn) | [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) |||
@@ -28,7 +28,7 @@ permalink: /program/
 | 15:35 	| 16:15  	| 0:40 	| Invited Talk 6: [Don Metzler](https://research.google/people/DonaldMetzler/) - [_Challenges in Enterprise Search and Intelligence_](https://document-intelligence.github.io/DI-2021/talks/#talk_don) | [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	|||
 | 16:15  	| 16:45  	| 0:30 	| <a name="best_paper"/>DI 2021 Best Paper Presentation: _[HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8)_ | [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |[pdf](</DI-2021/files/di-2021_slides_8.pdf>)| [![HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://img.youtube.com/vi/MUJkdXDR3x8/default.jpg)](https://youtu.be/MUJkdXDR3x8) |
 | 16:45  	| 17:45  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) | -- ||
-| 17:45 	| 18:00 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	|| -- |
+| 17:45 	| 18:00 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	| [pptx](</DI-2021/files/DI-2021 Closing.pptx>) | -- |
 
 ------
 
