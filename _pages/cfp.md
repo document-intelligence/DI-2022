@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- August 15: WORKSHOP DELAY for 10 minutes due to technical difficulties (KDD sent us WRONG ZOOM PASSWORD)! Sorry for the delay and stay tuned!
 - August 12: Pre-recorded videos of all papers/posters are up on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
 - August 5: Slides of all papers/posters are up on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
 - July 14: **Best Paper of DI-2021** is announced! Please join us in congratulating the authors of [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8). The Best Paper will be presented in [its own presentation session](https://document-intelligence.github.io/DI-2021/program/#best_paper) during the workshop!
