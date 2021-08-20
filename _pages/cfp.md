@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- August 20: All slides, videos and recordings are now posted on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
 - August 15: NEW Zoom link [https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09](https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09)
 - August 15: WORKSHOP DELAY for 10 minutes due to technical difficulties (KDD sent us WRONG ZOOM PASSWORD)! Sorry for the delay and stay tuned!
 - August 12: Pre-recorded videos of all papers/posters are up on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
