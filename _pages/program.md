@@ -27,7 +27,7 @@ permalink: /program/
 | 15:20 	| 15:35  	| 0:15 	| COFFEE BREAK 3 	| -- | -- | -- |
 | 15:35 	| 16:15  	| 0:40 	| Invited Talk 6: [Don Metzler](https://research.google/people/DonaldMetzler/) - [_Challenges in Enterprise Search and Intelligence_](https://document-intelligence.github.io/DI-2021/talks/#talk_don) | [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)	| -- | [![Challenges in Enterprise Search and Intelligence](https://img.youtube.com/vi/biSaOggOQz0/default.jpg)](https://youtu.be/biSaOggOQz0) |
 | 16:15  	| 16:45  	| 0:30 	| <a name="best_paper"/>DI 2021 Best Paper Presentation: _[HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8)_ | [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) |[pdf](</DI-2021/files/di-2021_slides_8.pdf>)| [![HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://img.youtube.com/vi/MUJkdXDR3x8/default.jpg)](https://youtu.be/MUJkdXDR3x8) |
-| 16:45  	| 17:45  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/qJsp7pdF4Rk/) | -- | [![Panel: DI Research Challenges & Directions](https://img.youtube.com/vi/biSaOggOQz0/default.jpg)](https://youtu.be/qJsp7pdF4Rk) |
+| 16:45  	| 17:45  	| 1:00 	| Panel: DI Research Challenges & Directions 	| [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) | -- | [![Panel: DI Research Challenges & Directions](https://img.youtube.com/vi/qJsp7pdF4Rk/default.jpg)](https://youtu.be/qJsp7pdF4Rk) |
 | 17:45 	| 18:00 	| 0:15 	| Workshop Summary and Closing Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	| [pptx](</DI-2021/files/DI-2021 Closing.pptx>) | -- |
 
 ------
