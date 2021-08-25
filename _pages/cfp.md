@@ -11,6 +11,9 @@ redirect_from:
 
 ## UPDATES
 
+- August 24: With the last link to the recorded videos published and the postmortem notes sent to the committee members, I'm happy to declare mission accomplished for Document Intelligence Workshop @ #KDD2021! 
+  - Again I'd like to thank my committee colleagues Doug Burdick, Dave Lewis, Yijuan Lu, Hamid Motahari, and Sandeep Tata for working together to make this happen! Also thank you to all the invited speakers, paper reviewers, and KDD workshop organizers for your great contributions!
+  - Now on to the next workshop: we're looking for the next set of organizers to organize DI-2022! We're all happy to share our experiences and help in any way we can! Please reach out to us!
 - August 20: All slides, videos and recordings are now posted on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
 - August 15: NEW Zoom link [https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09](https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09)
 - August 15: WORKSHOP DELAY for 10 minutes due to technical difficulties (KDD sent us WRONG ZOOM PASSWORD)! Sorry for the delay and stay tuned!
