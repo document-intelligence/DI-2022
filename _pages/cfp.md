@@ -11,38 +11,7 @@ redirect_from:
 
 ## UPDATES
 
-- August 24: With the last link to the recorded videos published and the postmortem notes sent to the committee members, we're happy to declare mission accomplished for Document Intelligence Workshop @ #KDD2021! 
-  - We want to thank all the invited speakers, paper reviewers, and KDD workshop organizers for your great contributions! And to all who attended the workshop in real-time or virtually!
-  - Now on to the next workshop: we're looking for the next set of organizers to organize DI-2022! We're all happy to share our experiences and help in any way we can! Please reach out to us!
-- August 20: All slides, videos and recordings are now posted on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
-- August 15: NEW Zoom link [https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09](https://zoom.us/j/95913914492?pwd=RzBtRk9MTXpHdkYwQkptd0Q1d0FiZz09)
-- August 15: WORKSHOP DELAY for 10 minutes due to technical difficulties (KDD sent us WRONG ZOOM PASSWORD)! Sorry for the delay and stay tuned!
-- August 12: Pre-recorded videos of all papers/posters are up on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
-- August 5: Slides of all papers/posters are up on the [Program](https://document-intelligence.github.io/DI-2021/program/) page!
-- July 14: **Best Paper of DI-2021** is announced! Please join us in congratulating the authors of [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](https://document-intelligence.github.io/DI-2021/papers/#paper_8). The Best Paper will be presented in [its own presentation session](https://document-intelligence.github.io/DI-2021/program/#best_paper) during the workshop!
-- July 11: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/#talk_yunyao) updated with talk info from [Yunyao Li](https://researcher.watson.ibm.com/researcher/view.php?person=us-yunyaoli).
-- July 10:
-  - Announcing [accepted papers and posters](https://document-intelligence.github.io/DI-2021/papers/)!
-  - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/) now contains session details.
-  - Added details on uploading video/slides [here](#pre-recording).
-  - We thank our [41 paper reviewers](https://document-intelligence.github.io/DI-2021/organization/#reviewers)! We can't have a successful workshop without you!
-- July 6:
-  - Added section on [pre-recording presentation videos](#pre-recording).
-  - Added Video/slides upload due: 23:59 on August 1, 2021 (anywhere on Earth).
-  - Updated [Workshop Program](https://document-intelligence.github.io/DI-2021/program/).
-- July 2: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
-- July 1: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Cha Zhang](https://www.microsoft.com/en-us/research/people/chazhang/).
-- June 30: [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) updated with talk info from [Don Metzler](https://research.google/people/DonaldMetzler/) and [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
-- June 7: Updated workshop date & time: <ins>8am-6pm August 15, 2021 PDT (Sunday)</ins>.
-- June 3: In the [Invited Talks](https://document-intelligence.github.io/DI-2021/talks/) section:
-  - Welcome [Don Metzler](https://research.google/people/DonaldMetzler/) as our latest addition to the list of invited speakers!
-  - Added bio for our invited speaker Prof. [Heng Ji](https://cs.illinois.edu/about/people/faculty/hengji).
-- May 17: Clarification that [workshop papers will not be archived with the main KDD proceedings](#workshop_proceedings).
-- May 14: Paper submission deadline extended to <ins>23:59 on May 21, 2021 (Friday)</ins> (anywhere on Earth).
-- May 9: Clarified which template for Word authors and which document class for LaTeX authors to use for submission. See [Submissions](#submissions).
-- April 22: Added link to the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest).
-- April 22: Added link to the [Standard ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template).
-- ~~April 15: Paper submission deadline extended to May 17, 2021.~~
+- April 19: DI-2022 site is up!
 
 ------
 
