@@ -88,10 +88,10 @@ The DI-2022 Organizing Committee wishes to express its sincere gratitude to the 
 
 (in alphabetical order of last names)
 
+TODO
+<!--
 | # | Full Name | Affiliation |
 |:- |:-:  |:-:  |
-
-<!--
 | 1 | Charles Beller | IBM |
 | 2 | Tongfei Chen | Microsoft |
 | 3 | Freddy Chua | Ernst & Young |
