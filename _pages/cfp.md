@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>Call for Papers <br><br> Document Intelligence Workshop <br><br> @ KDD 2021</center>
+title: <center>Call for Papers <br><br> Document Intelligence Workshop <br><br> @ KDD 2022</center>
 excerpt: "CFP"
 sitemap: false
 author_profile: true
@@ -11,7 +11,7 @@ redirect_from:
 
 ## UPDATES
 
-- April 19: DI-2022 site is up!
+- April 20: DI-2022 site is up!
 
 ------
 
