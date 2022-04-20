@@ -73,7 +73,7 @@ We are soliciting submissions of short papers in PDF format and formatted accord
  - Word authors: please use [Interim layout.docx](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx)/[interim sample pdf](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.pdf).
  - LaTeX authors: please download [LATEX (Version 1.77)](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip) and use `\documentclass[sigconf]{acmart}`.
 
-Submissions are limited to **<ins>four (4) pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
+Submissions are limited to **<ins>TBD pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 
@@ -85,17 +85,17 @@ It is expected that one of the authors of accepted contributions will register a
 
 ### Workshop Proceedings
 
-Please note as per the [KDD Call for Workshop Proposals](https://www.kdd.org/kdd2021/calls/view/kdd-2021-call-for-workshop-proposals): 
+Please note as per the [KDD Call for Workshop Proposals](https://kdd.org/kdd2022/cfWorkshopProp.html): 
 
 >Note: Workshop papers will not be archived in the ACM Digital Library. However, workshop organizers may set up any archived publication mechanism that best suits their workshop.
 
-DI-2021 accepted papers will _not_ be archived in the main KDD 2021 proceedings. We will instead host the accepted papers on this website (<https://aka.ms/di-2021>) indefinitely.
+DI-2022 accepted papers will _not_ be archived in the main KDD 2022 proceedings. We will instead host the accepted papers on this website (<https://aka.ms/di-2022>) indefinitely.
 
 ------
 
 ## Submission URL 
 
-Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
+Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 
 ------
 
@@ -103,8 +103,8 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ## Pre-recording Videos and Upload Videos & Slides
 
-- Invited speakers and presenters please follow the instructions in [DI-2021 Self Recording Guidance](</DI-2021/files/DI-2021 Self Recording Guidance.pdf>) to pre-record your talks.
-- Please upload the video and slides to <https://cmt3.research.microsoft.com/DI2021> (same as paper submission site)
+- Invited speakers and presenters please follow the instructions in [DI-2022 Self Recording Guidance](</DI-2022/files/DI-2022 Self Recording Guidance.pdf>) to pre-record your talks.
+- Please upload the video and slides to <https://cmt3.research.microsoft.com/DI2022> (same as paper submission site)
 - Please upload as supplementary material.
 - You can upload up to 3 files.
 - The file size limit is 700 MB.
@@ -114,17 +114,17 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2021>
 
 ## Important Dates
 
-- Paper Submission Deadline: ~~May 10, 2021~~ 23:59 on May 21, 2021 (anywhere on Earth).
-- Paper Notification Date: June 10, 2021. 
-- Paper Final Version Due: July 1, 2021.
-- Pre-recorded Video and Slides Upload Due: 23:59 on August 1, 2021 (anywhere on Earth).
-- Virtual Workshop Date: ~~August 14-18,~~ 8am-6pm, August 15, 2021 PDT (Sunday).
+- Paper Submission Deadline: 23:59 on TBD, 2022 (anywhere on Earth).
+- Paper Notification Date: TBD, 2022. 
+- Paper Final Version Due: TBD, 2022.
+- Pre-recorded Video and Slides Upload Due: 23:59 on TBD, 2022 (anywhere on Earth).
+- Virtual Workshop Date: TBD, 2022 PDT (Sunday).
 
 ------
 
 ## Workshop Website 
 
-<https://document-intelligence.github.io/DI-2021/> or <https://aka.ms/di-2021>
+<https://document-intelligence.github.io/DI-2022/> or <https://aka.ms/di-2022>
 
 ------
 
@@ -136,28 +136,28 @@ Email: <document-intelligence@outlook.com>
 
 ## Workshop Registration
 
-Workshop registration will be processed with the main KDD 2021 conference: <https://kdd.org/kdd2021/>
+Workshop registration will be processed with the main KDD 2022 conference: <https://kdd.org/kdd2022/>
 
 ------
 
 ## Workshop Organizing Committee 
 
 - [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) (IBM Research) 
+- [Benjamin Han](https://www.linkedin.com/in/benjaminhan/) (Microsoft Azure AI)
 - [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) (Reveal-Brainspace) 
-- [Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/) (Microsoft Azure AI) 
-- [Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/) (Macquarie University) 
 - [Sandeep Tata](https://research.google/people/SandeepTata/) (Google Research) 
 
 ------
 
 ## Program Committee Chair 
 
-[Benjamin Han](https://www.linkedin.com/in/benjaminhan/) (Microsoft Azure AI)
+- [Ani Nenkova](https://www.cis.upenn.edu/~nenkova/) (Adobe Research)
 
 ------
 
 ## Past Workshop
 
+- DI-2021: [Second Document Intelligence Workshop @ KDD 2021](https://document-intelligence.github.io/DI-2021/)
 - DI-2019: [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
 - DI-2019 Report: [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020](https://www.microsoft.com/en-us/research/publication/a-report-on-the-first-workshop-on-document-intelligence-di-at-neurips-2019/).
  
