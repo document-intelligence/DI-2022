@@ -10,7 +10,7 @@ permalink: /organization/
 ## Organizing Committee
 (in alphabetical order)
 
-<img src='/DI-2021/images/DI-2021_doug.jpg' align="right">**[Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic)** is a Research Staff Member at **IBM Research** - Almaden
+<img src='/DI-2022/images/DI-2022_doug.jpg' align="right">**[Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic)** is a Research Staff Member at **IBM Research** - Almaden
 currently working on the application of AI and machine learning to
 document understanding, which includes table extraction and
 understanding in addition to inferring document structure. His
@@ -26,7 +26,28 @@ the University of Wisconsin - Madison.
 
 ------
 
-<img src='/DI-2021/images/DI-2021_dave.jpg' align="right">**[Dave Lewis](https://www.linkedin.com/in/daviddlewis/)** is an Executive Vice President for AI Research,
+<img src='/DI-2022/images/DI-2022_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
+and development of the natural language services on **Microsoft Azure
+AI**. His current focus is to democratize the
+state-of-the-art NLP research to serve customers at scale. His
+research interests include language detection, key phrase extraction,
+sentiment analysis, named entity recognition, entity linking,
+coreference resolution, relation extraction, knowledge base
+construction, summarization, and question answering. During his time
+at Microsoft he has been a Principal Scientist in Satori (knowledge
+graph) and Bot Framework (conversational AI). Before that he was a
+Research Staff Member in the Multilingual NLP Technologies group at
+IBM TJ Watson Research Center for over a decade, working on all stages
+of information extraction technologies that power products such as IBM
+Watson Knowledge Studio and Watson NLU. He was the chair of the [Document Intelligence Workshop in KDD-2021](https://document-intelligence.github.io/DI-2021/), and he had participated in many
+government organized projects/competitions such as TREC, RADAR, ACE,
+GALE and TACKBP, published in conferences such as ICME, ICoS, NAACL,
+IJCAI, AAAI and SIGIR, and organized the Knowledge Graph tutorial in
+KDD 2018.
+
+------
+
+<img src='/DI-2022/images/DI-2022_dave.jpg' align="right">**[Dave Lewis](https://www.linkedin.com/in/daviddlewis/)** is an Executive Vice President for AI Research,
 Development, and Ethics at **Reveal-Brainspace**. Prior to joining
 Brainspace, he was variously a freelance consultant, corporate
 researcher (Bell Labs, AT&T Labs), research professor, and software
@@ -39,26 +60,7 @@ sampling.
 
 ------
 
-<img src='/DI-2021/images/DI-2021_yijuan.jpg' align="right">**[Yijuan (Lucy) Lu](https://www.linkedin.com/in/yijuan-lu-590b426/)** is a Principal Scientist at **Microsoft Azure AI** where she worked on invoice understanding, OCR core engine, and video understanding in the recent two years. Prior to joining Microsoft, she was an associate professor in the Department of Computer Science at Texas State University. Her major publications appear in leading publication venues in multimedia and computer vision research.  She was the First Place Winner in many challenging retrieval competitions in Eurographics for many years. She received 2015 Texas State Presidential Distinction Award and 2014 College Achievement Award. She also received the Best Paper award from ICME 2013 and ICIMCS 2012. She has obtained many competitive external grants from NSF, US Army, US Department of Defense and Texas Department of Transportation.
-
-------
-
-<img src='/DI-2021/images/DI-2021_hamid.jpg' align="right">**[Hamid Motahari](https://www.linkedin.com/in/hamidmotahari/)** is an Honorary Professor of Computer Science at
-**Macquarie University**, Sydney, Australia. Prior to this, he was the
-Head of AI Science at the EY AI Lab in California where he was leading
-a team of AI scientists in text and document understanding. Prior to
-EY, Hamid served as the Research Lead for AI & Cognitive Solutions at
-IBM Research, and has been a member of IBM Academy of Technology. He
-is a Senior Member of IEEE and has published 100+ scholarly papers in
-various conferences in AI, Web, IT Services, and IEEE/ACM journals.
-Hamid has chaired and organized various academic conferences and
-workshops in the past IEEE, ACM, AAAI and INFORMS conferences,
-including he has served as Technical Program Committee (TPC) Chair of
-the 1st Workshop on Document Intelligence at NeurIPS 2019.
-
-------
-
-<img src='/DI-2021/images/DI-2021_sandeep.jpg' align="right">**[Sandeep Tata](https://research.google/people/SandeepTata/)** is a Software Engineer at **Google Research** and leads a
+<img src='/DI-2022/images/DI-2022_sandeep.jpg' align="right">**[Sandeep Tata](https://research.google/people/SandeepTata/)** is a Software Engineer at **Google Research** and leads a
 research group on information extraction.  Sandeep has published
 dozens of peer-reviewed research articles across a variety of
 disciplines including data management, data mining, natural language
@@ -74,36 +76,22 @@ from the University of Michigan.
 ------
 ## Program Committee Chair
 
-<img src='/DI-2021/images/DI-2021_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
-and development of the natural language services on **Microsoft Azure
-AI**. His current focus is to democratize the
-state-of-the-art NLP research to serve customers at scale. His
-research interests include language detection, key phrase extraction,
-sentiment analysis, named entity recognition, entity linking,
-coreference resolution, relation extraction, knowledge base
-construction, summarization, and question answering. During his time
-at Microsoft he has been a Principal Scientist in Satori (knowledge
-graph) and Bot Framework (conversational AI). Before that he was a
-Research Staff Member in the Multilingual NLP Technologies group at
-IBM TJ Watson Research Center for over a decade, working on all stages
-of information extraction technologies that power products such as IBM
-Watson Knowledge Studio and Watson NLU. He had participated in many
-government organized projects/competitions such as TREC, RADAR, ACE,
-GALE and TACKBP, published in conferences such as ICME, ICoS, NAACL,
-IJCAI, AAAI and SIGIR, and organized the Knowledge Graph tutorial in
-KDD 2018.
-
+<img src='/DI-2022/images/DI-2022_sandeep.jpg' align="right">**[Ani Nenkova](https://www.cis.upenn.edu/~nenkova/)** is a Principal Scientist at **Adobe Research**, leading the Adobe-Maryland part of the Document 
+Intelligence Lab. Ani’s work is broadly in the area of language technology, including text quality prediction, 
+summarization and named entity recognition. She has co-organized several workshops on summarization and improving text readability. Ani was program co-chair of NAACL 2016 and currently serves as editorin-chief for TACL.
 
 ------
 
 ## Reviewers
 
-The DI-2021 Organizing Committee wishes to express its sincere gratitude to the help from our paper reviewers. Without your thorough and timely reviewing, we could not have organized a successful workshop! THANK YOU!
+The DI-2022 Organizing Committee wishes to express its sincere gratitude to the help from our paper reviewers. Without your thorough and timely reviewing, we could not have organized a successful workshop! THANK YOU!
 
 (in alphabetical order of last names)
 
 | # | Full Name | Affiliation |
 |:- |:-:  |:-:  |
+
+<!--
 | 1 | Charles Beller | IBM |
 | 2 | Tongfei Chen | Microsoft |
 | 3 | Freddy Chua | Ernst & Young |
@@ -145,4 +133,4 @@ The DI-2021 Organizing Committee wishes to express its sincere gratitude to the 
 | 39 | Yuan Xie | Microsoft |
 | 40 | Li Yang | Google |
 | 41 | Qi Zeng | University of Illinois at Urbana-Champaign |
-
+-->
