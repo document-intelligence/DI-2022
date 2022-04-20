@@ -7,9 +7,10 @@ permalink: /program/
 
 ------
 
-## Overall Program (Sunday August 15, 2021, time in PDT)
-(all video recordings can be found at [Document Intelligence Workshop @ KDD 2021 YouTube Channel](https://www.youtube.com/channel/UC5RWJ-eO60Lm1UppbT7vHeg/featured))
+## Overall Program (TBD 2022, time in PDT)
+(all video recordings can be found at TBD)
 
+<!--
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|Slides|Video|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Benjamin Han](https://www.linkedin.com/in/benjaminhan/)	| [pptx](</DI-2021/files/DI-2021 Opening.pptx>) | -- |
@@ -64,3 +65,5 @@ permalink: /program/
 | Poster | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](https://document-intelligence.github.io/DI-2021/papers/#paper_10) | [pptx](</DI-2021/files/di-2021_slides_10.pptx>) | [![Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](https://img.youtube.com/vi/oiN_wft_XEk/default.jpg)](https://youtu.be/oiN_wft_XEk) |
 | Poster | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](https://document-intelligence.github.io/DI-2021/papers/#paper_6) | [pptx](</DI-2021/files/di-2021_slides_6.pptx>) | [![The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](https://img.youtube.com/vi/mO3HuhVfLy8/default.jpg)](https://youtu.be/mO3HuhVfLy8) |
 | Poster | [Towards Semantic Search for Community Question Answering for Mortgage Officers](https://document-intelligence.github.io/DI-2021/papers/#paper_17) | [pdf](</DI-2021/files/di-2021_slides_17.pdf>) | [![Towards Semantic Search for Community Question Answering for Mortgage Officers](https://img.youtube.com/vi/1HMIsJhqFWE/default.jpg)](https://youtu.be/1HMIsJhqFWE) |
+
+-->
