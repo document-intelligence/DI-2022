@@ -26,24 +26,19 @@ the University of Wisconsin - Madison.
 
 ------
 
-<img src='/DI-2022/images/DI-2022_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research
-and development of the natural language services on **Microsoft Azure
-AI**. His current focus is to democratize the
-state-of-the-art NLP research to serve customers at scale. His
-research interests include language detection, key phrase extraction,
-sentiment analysis, named entity recognition, entity linking,
-coreference resolution, relation extraction, knowledge base
-construction, summarization, and question answering. During his time
+<img src='/DI-2022/images/DI-2022_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research and development of the natural language services on **Microsoft Azure
+AI**. His research interests include many aspects of NLGPU (natural language generation,
+processing and understanding) such as information extraction, summarization, 
+conversational AI, question answering and knowledge graph. During his time
 at Microsoft he has been a Principal Scientist in Satori (knowledge
 graph) and Bot Framework (conversational AI). Before that he was a
 Research Staff Member in the Multilingual NLP Technologies group at
-IBM TJ Watson Research Center for over a decade, working on all stages
+IBM TJ Watson Research Center working on all stages
 of information extraction technologies that power products such as IBM
-Watson Knowledge Studio and Watson NLU. He was the chair of the [Document Intelligence Workshop in KDD-2021](https://document-intelligence.github.io/DI-2021/), and he had participated in many
-government organized projects/competitions such as TREC, RADAR, ACE,
-GALE and TACKBP, published in conferences such as ICME, ICoS, NAACL,
-IJCAI, AAAI and SIGIR, and organized the Knowledge Graph tutorial in
-KDD 2018.
+Watson Knowledge Studio and Watson NLU. He organized the 
+[Document Intelligence Workshop in KDD-2021](https://document-intelligence.github.io/DI-2021/) and the Knowledge Graph tutorial in
+KDD-2018, participated in government organized projects/competitions such as TREC, RADAR, ACE,
+GALE and TACKBP, and published in venues such as AAAI, ICME, ICoS, IJCAI, KDD, NAACL and SIGIR.
 
 ------
 
