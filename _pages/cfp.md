@@ -99,6 +99,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 
 ------
 
+<!--
 <div id="pre-recording"></div>
 
 ## Pre-recording Videos and Upload Videos & Slides
@@ -111,6 +112,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 - Accepted file format: pptx (PowerPoint), pdf, mp4 (video)
 
 ------
+-->
 
 ## Important Dates
 
@@ -118,7 +120,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 - Paper Notification Date: TBD, 2022. 
 - Paper Final Version Due: TBD, 2022.
 - Pre-recorded Video and Slides Upload Due: 23:59 on TBD, 2022 (anywhere on Earth).
-- Virtual Workshop Date: TBD, 2022 PDT (Sunday).
+- Workshop Date: TBD, 2022 PDT (Sunday).
 
 ------
 
