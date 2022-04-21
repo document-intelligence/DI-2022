@@ -76,7 +76,7 @@ from the University of Michigan.
 ------
 ## Program Committee Chair
 
-<img src='/DI-2022/images/DI-2022_sandeep.jpg' align="right">**[Ani Nenkova](https://www.cis.upenn.edu/~nenkova/)** is a Principal Scientist at **Adobe Research**, leading the Adobe-Maryland part of the Document 
+<img src='/DI-2022/images/DI-2022_ani.jpg' align="right">**[Ani Nenkova](https://www.cis.upenn.edu/~nenkova/)** is a Principal Scientist at **Adobe Research**, leading the Adobe-Maryland part of the Document 
 Intelligence Lab. Ani’s work is broadly in the area of language technology, including text quality prediction, 
 summarization and named entity recognition. She has co-organized several workshops on summarization and improving text readability. Ani was program co-chair of NAACL 2016 and currently serves as editorin-chief for TACL.
 
