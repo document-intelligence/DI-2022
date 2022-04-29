@@ -11,7 +11,7 @@ redirect_from:
 
 ## UPDATES
 
-- April 20: DI-2022 site is up!
+- April 28: DI-2022 site is up!
 
 ------
 
@@ -161,7 +161,7 @@ Workshop registration will be processed with the main KDD 2022 conference: <http
 
 - DI-2021: [Second Document Intelligence Workshop @ KDD 2021](https://document-intelligence.github.io/DI-2021/)
 - DI-2019: [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
-- DI-2019 Report: [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020](https://www.microsoft.com/en-us/research/publication/a-report-on-the-first-workshop-on-document-intelligence-di-at-neurips-2019/).
+  - Report [Hamid Motahari, Nigel Duffy, Paul Bennett, and Tania Bedrax-Weiss. A Report on the First Workshop on Document Intelligence (DI) at NeurIPS 2019. SIGKDD Explorations, Vol. 22, Issue 2. December 2020](https://www.microsoft.com/en-us/research/publication/a-report-on-the-first-workshop-on-document-intelligence-di-at-neurips-2019/).
  
 
 
