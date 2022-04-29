@@ -9,11 +9,13 @@ redirect_from:
   - /cfp.html
 ---
 
+<!--
 ## UPDATES
 
 - April 28: DI-2022 site is up!
 
 ------
+-->
 
 ## Abstract 
 
