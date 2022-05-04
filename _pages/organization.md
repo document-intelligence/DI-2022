@@ -26,6 +26,10 @@ the University of Wisconsin - Madison.
 
 ------
 
+<img src='/DI-2022/images/DI-2022_dan.jpg' align="right">**[Dan Tecuci](https://www.linkedin.com/in/dantecuci/)** leads the US AI Lab at EY working on prototyping and productizing business document understanding, including unstructured, semi-structured (e.g. invoices) and fully structured (e.g. spreadsheets) documents. Before EY, Dan worked on applying NLP to drug discovery, generating recipes, and question answering at IBM, as well as diagnostic systems and natural language access to large bodies of enterprise data at Siemens Research. He authored several publications and holds 11 patents. He received his PhD from The University of Texas at Austin. 
+
+------
+
 <img src='/DI-2022/images/DI-2022_ben.jpg' align="right">**[Benjamin Han](https://www.linkedin.com/in/benjaminhan/)** is the Principal Science Manager leading the research and development of the natural language services on **Microsoft Azure
 AI**. His research interests include many aspects of NLGPU (natural language generation,
 processing and understanding) such as information extraction, summarization, 
