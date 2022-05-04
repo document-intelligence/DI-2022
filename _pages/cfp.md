@@ -118,7 +118,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 
 ## Important Dates
 
-- Paper Submission Deadline: 23:59 on Thursday May 26, 2022 (anywhere on Earth).
+- Paper Submission Deadline: 23:59 on Thursday June 2, 2022 (anywhere on Earth).
 - Paper Notification Date: Monday June 20, 2022. 
 - Paper Final Version Due: TBD, 2022.
 <!-- - Pre-recorded Video and Slides Upload Due: 23:59 on TBD, 2022 (anywhere on Earth). -->
