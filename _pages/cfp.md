@@ -147,6 +147,7 @@ Workshop registration will be processed with the main KDD 2022 conference: <http
 ## Workshop Organizing Committee 
 
 - [Douglas Burdick](https://researcher.watson.ibm.com/researcher/view.php?person=us-drburdic) (IBM Research) 
+- [Dan Tecuci](https://www.linkedin.com/in/dantecuci/) (EY) 
 - [Benjamin Han](https://www.linkedin.com/in/benjaminhan/) (Microsoft Azure AI)
 - [Dave Lewis](https://www.linkedin.com/in/daviddlewis/) (Redgrave Data) 
 - [Sandeep Tata](https://research.google/people/SandeepTata/) (Google Research) 
