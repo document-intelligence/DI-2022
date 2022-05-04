@@ -75,7 +75,7 @@ We are soliciting submissions of short papers in PDF format and formatted accord
  - Word authors: please use [Interim layout.docx](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx)/[interim sample pdf](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.pdf).
  - LaTeX authors: please download [LATEX (Version 1.77)](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip) and use `\documentclass[sigconf]{acmart}`.
 
-Submissions are limited to **<ins>TBD pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
+Submissions are limited to **<ins>4 pages, not including references</ins>**. Submissions that do not meet the formatting requirements will be rejected without review.
 
 Submissions can be original research contributions, or abstracts of papers previously submitted to top-tier venues, but not currently under review in other venues and not yet published. The research contributions may discuss technical challenges of reading and interpreting business documents and present research results. 
 
