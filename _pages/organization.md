@@ -87,8 +87,6 @@ The DI-2022 Organizing Committee wishes to express its sincere gratitude to the 
 
 (in alphabetical order of last names)
 
-TODO
-<!--
 | # | Full Name | Affiliation |
 |:- |:-:  |:-:  |
 | 1 | Charles Beller | IBM |
@@ -100,36 +98,35 @@ TODO
 | 7 | Jonathan Degange | Ernst & Young |
 | 8 | Yasuhisa Fujii | Google |
 | 9 | [Revanth Gangi Reddy](https://gangiswag.github.io) | University of Illinois at Urbana-Champaign |
-| 10 | Sean Goldberg | Microsoft |
-| 11 | Beliz Gunel | Stanford University |
-| 12 | Ruining He | Google |
-| 13 | Bruce Hedin | H5 |
-| 14 | [Hans Henseler](https://www.linkedin.com/in/henseler/) | University of Applied Sciences Leiden |
-| 15 | Mehrdad Jabbarzadeh Gangeh | Ernst & Young |
-| 16 | Antonio Jose Jimeno Yepes | University of Melbourne |
-| 17 | Amanda Jones | H5 |
-| 18 | Priyanka Kulkarni | Microsoft |
-| 19 | Sameer Kulkarni | Google |
-| 20 | Chen-Yu Lee | Google |
-| 21 | Manling Li | University of Illinois at Urbana-Champaign |
-| 22 | James Mayfield | Johns Hopkins University |
-| 23 | Graham McDonald | University of Glasgow |
-| 24 | Lesly Miculicich | Microsoft |
-| 25 | Mark Noel | Hogan Lovells |
-| 26 | Feifei Pan | Rensselaer Polytechnic Institute |
-| 27 | Navneet Potti | Google |
-| 28 | Xiaoqi Ren | Google |
-| 29 | Herbert Roitblat | Mimecast |
-| 30 | Amr Sharaf | Microsoft |
-| 31 | Ying Sheng | Google |
-| 32 | Baoguang Shi | Microsoft |
-| 33 | Peter Staar | IBM |
-| 34 | Baochen Sun | Microsoft |
-| 35 | Dan Tecuci | Ernst & Young |
-| 36 | Jyothi Vinjumur | Walmart |
-| 37 | Guoxin Wang | Microsoft |
-| 38 | Sen Wu | Stanford University |
-| 39 | Yuan Xie | Microsoft |
-| 40 | Li Yang | Google |
-| 41 | Qi Zeng | University of Illinois at Urbana-Champaign |
--->
+| 11 | Sean Goldberg | Microsoft |
+| 12 | Jiuxiang Gu | Adobe Research |
+| 13 | Beliz Gunel | Stanford University |
+| 14 | Ruining He | Google |
+| 15 | [Hans Henseler](https://www.linkedin.com/in/henseler/) | University of Applied Sciences Leiden |
+| 16 | Mehrdad Jabbarzadeh Gangeh | Ernst & Young |
+| 17 | Rajiv Jain | Adobe Research |
+| 18 | Antonio Jose Jimeno Yepes | University of Melbourne |
+| 19 | Amanda Jones | H5 |
+| 20 | Priyanka Kulkarni | Microsoft |
+| 21 | Sameer Kulkarni | Google |
+| 22 | Chen-Yu Lee | Google |
+| 23 | Manling Li | University of Illinois at Urbana-Champaign |
+| 24 | James Mayfield | Johns Hopkins University |
+| 25 | Graham McDonald | University of Glasgow |
+| 26 | Lesly Miculicich | Microsoft |
+| 27 | Mark Noel | Hogan Lovells |
+| 28 | Feifei Pan | Rensselaer Polytechnic Institute |
+| 29 | Navneet Potti | Google |
+| 30 | Brian Price | Adobe Research |
+| 31 | Xiaoqi Ren | Google |
+| 32 | Herbert Roitblat | Mimecast |
+| 33 | Ying Sheng | Google |
+| 34 | Baoguang Shi | Microsoft |
+| 35 | Peter Staar | IBM |
+| 36 | Baochen Sun | Microsoft |
+| 37 | Chris Tensmeyer | Adobe Research |
+| 38 | Jyothi Vinjumur | Walmart |
+| 39 | Guoxin Wang | Microsoft |
+| 40 | Sen Wu | Stanford University |
+| 41 | Li Yang | Google |
+| 42 | Qi Zeng | University of Illinois at Urbana-Champaign |
