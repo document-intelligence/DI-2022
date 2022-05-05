@@ -160,7 +160,7 @@ Workshop registration will be processed with the main KDD 2022 conference: <http
 
 ------
 
-## Past Workshop
+## Past Workshops
 
 - DI-2021: [Second Document Intelligence Workshop @ KDD 2021](https://document-intelligence.github.io/DI-2021/)
 - DI-2019: [First Document Intelligence Workshop @ NeurIPS 2019](https://sites.google.com/view/di2019/)
