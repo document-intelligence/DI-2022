@@ -66,6 +66,17 @@ Document Intelligence.
 
 ------
 
+<div id="sponsors"></div>
+
+## Sponsors
+
+Thank you for your sponsorships!
+
+<img src='/DI-2022/images/DI_2022_logo_Adobe.png'>
+<img src='/DI-2022/images/DI_2022_logo_EY.jpg'>
+
+------
+
 <div id="submissions"></div>
 
 ## Submissions
