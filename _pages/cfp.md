@@ -9,13 +9,14 @@ redirect_from:
   - /cfp.html
 ---
 
-<!--
 ## UPDATES
 
+- May 27: 
+  - Paper submission deadline is now extended to [June 9, 2022](#important-dates)!
+  - We have two [sponsors](#sponsors) for the workshop! Thank you Adobe and EY!
 - April 28: DI-2022 site is up!
 
 ------
--->
 
 ## Abstract 
 
@@ -127,9 +128,11 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 ------
 -->
 
+<div id="important_dates"></div>
+
 ## Important Dates
 
-- Paper Submission Deadline: 23:59 on Thursday June 2, 2022 (anywhere on Earth).
+- Paper Submission Deadline: 23:59 on Thursday ~~June 2~~ June 9, 2022 (anywhere on Earth).
 - Paper Notification Date: Monday June 20, 2022. 
 - Paper Final Version Due: TBD, 2022.
 <!-- - Pre-recorded Video and Slides Upload Due: 23:59 on TBD, 2022 (anywhere on Earth). -->
