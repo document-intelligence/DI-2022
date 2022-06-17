@@ -5,9 +5,12 @@ sitemap: false
 permalink: /talks/
 ---
 
-<center>(in alphabetical order)</center><br>
+- <a name="talk_william"/>**Speaker:** <img src='/DI-2021/images/DI-2021_talk_william.jpg' align="right">**[William Wang](https://sites.cs.ucsb.edu/~william/index.html)**
+- **Title:** Learning to Reason with Text and Tables
+- **Abstract:** A key challenge for Artificial Intelligence is to design intelligent agents that can reason with heterogeneous representations. In this talk, I will describe 
+our recent work on teaching machines to reason in semi-structured tables and unstructured text data. More specifically, I will introduce: (1) TabFact, a large benchmark dataset for table-based fact-checking; (2) HybridQA, a multi-hop question answering framework on tables and text; (3) KGPT, a pretrained data-to-text generation model that achieved state-of-the-art performances. I will also describe some other recent work at UCSB's NLP Group on learning to reason with text and tables.
 
-TBD
+- **Bio:** **[William Wang](https://sites.cs.ucsb.edu/~william/index.html)** is the Duncan and Suzanne Mellichamp Chair in Artificial Intelligence and Designs, and an Associate Professor in the Department of Computer Science at the University of California, Santa Barbara. He is co-Director of UC Santa Barbara's Natural Language Processing group, Center for Responsible Machine Learning, and UCSB's Campus Initiative on Mind and Machine Intelligence. He received his Ph.D. from the School of Computer Science, Carnegie Mellon University. He has broad interests in machine learning approaches to data science, including statistical relational learning, information extraction, computational social science, and vision. He has published more than 100 papers at leading NLP/AI/ML/Vision conferences and journals, and received best paper awards (or nominations) at ASRU 2013, CIKM 2013, EMNLP 2015, and CVPR 2019, a DARPA Young Faculty Award (Class of 2018), IEEE's AI's 10 to Watch (2020), NSF CAREER Award (2021), and many other faculty research awards from Amazon, Google, Facebook, IBM, JP Morgan Chase, Adobe, and Intel. His work and opinions appear in major tech media outlets such as Wired, VICE, Scientific American, Fortune, Fast Company, NPR, NASDAQ, The Next Web, Law.com, and Mental Floss. 
 
 <!-- 
 - <a name="talk_kevyn"/>**Speaker:** <img src='/DI-2021/images/DI-2021_talk_kevyn.jpg' align="right">**[Kevyn Collins-Thompson](http://www-personal.umich.edu/~kevynct/)**
