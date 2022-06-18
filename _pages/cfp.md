@@ -13,7 +13,7 @@ redirect_from:
 
 - June 17:
   - DI-2022 [invited talk](https://document-intelligence.github.io/DI-2022/talks/) is up: [William Wang](https://sites.cs.ucsb.edu/~william/index.html) will tell us the latest on **Learning to Reason with Text and Tables**!
-  - Paper reviews are underway! Thank you for all your contributions, our [reviewers](https://document-intelligence.github.io/DI-2022/organization/#Reviewers)!
+  - Paper reviews are underway! Thank you for all your contributions, our [reviewers](https://document-intelligence.github.io/DI-2022/organization/#reviewers)!
 - May 27: 
   - Paper submission deadline is now extended to [June 9, 2022](#important-dates)!
   - We have two [sponsors](#sponsors) for the workshop! Thank you Adobe and EY!
