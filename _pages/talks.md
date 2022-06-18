@@ -5,7 +5,7 @@ sitemap: false
 permalink: /talks/
 ---
 
-- <a name="talk_william"/>**Speaker:** <img src='/DI-2021/images/DI-2021_talk_william.jpg' align="right">**[William Wang](https://sites.cs.ucsb.edu/~william/index.html)**
+- <a name="talk_william"/>**Speaker:** <img src='/DI-2022/images/DI-2022_talk_william.jpg' align="right">**[William Wang](https://sites.cs.ucsb.edu/~william/index.html)**
 - **Title:** Learning to Reason with Text and Tables
 - **Abstract:** A key challenge for Artificial Intelligence is to design intelligent agents that can reason with heterogeneous representations. In this talk, I will describe 
 our recent work on teaching machines to reason in semi-structured tables and unstructured text data. More specifically, I will introduce: (1) TabFact, a large benchmark dataset for table-based fact-checking; (2) HybridQA, a multi-hop question answering framework on tables and text; (3) KGPT, a pretrained data-to-text generation model that achieved state-of-the-art performances. I will also describe some other recent work at UCSB's NLP Group on learning to reason with text and tables.
