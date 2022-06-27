@@ -18,7 +18,7 @@ permalink: /papers/
 | 6 | [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](#paper_12) | TBD |
 | 7 | [Domain Agnostic Few-Shot Learning For Document Intelligence](#paper_13) | TBD |
 | 8 | [Scientific Comparative Argument Generation](#paper_15) | TBD |
-| 9 | [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](#paper_17) | TBD) |
+| 9 | [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](#paper_17) | TBD |
 
 ------
 
