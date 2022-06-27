@@ -8,26 +8,21 @@ permalink: /papers/
 ## Papers
 (authors marked by * are the corresponding authors)
 
-<!--
-
 | # | Title | Session | 
 |:- |:- |:-: |
-| 1 | [CHARTER: heatmap-based multi-type chart data extraction](#paper_7) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
-| 2 | [Data-Efficient Information Extraction from Form-Like Documents](#paper_13) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
-| 3 | [Detection Masking for Improved OCR on Noisy Documents](#paper_2) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
-| 4 | [Efficient Document Image Classification Using Region-Based Graph Neural Network](#paper_18) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
-| 5 | [Generating and evaluating simulated medical notes: Getting a Natural Language Generation model to give you what you want](#paper_20) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
-| 6 | [HYCEDIS: HYbrid Confidence Engine for Deep Document Intelligence System](#paper_8) | [Best Paper](https://document-intelligence.github.io/DI-2021/program/#best_paper) |
-| 7 | [Lights, Camera, Action! A Framework to Improve NLP Accuracy over OCR documents](#paper_22) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
-| 8 | [Position Masking for Improved Layout-Aware Document Understanding](#paper_21) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
-| 9 | [SpecToSVA: Circuit Specification Document to SystemVerilog Assertion Translation](#paper_19) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
-| 10 | [Text Analysis via Binomial Tails](#paper_15) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
+| 1 | [DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding](#paper_5) | TBD |
+| 2 | [BusiNet - a Light and Fast text Detection Network for Business Documents](#paper_6) | TBD |
+| 3 | [Graph Attention Networks for Efficient Text Line Detection on Receipt-Layout Documents](#paper_7) | TBD |
+| 4 | [Document Summarization with Text Segmentation](#paper_8) | TBD |
+| 5 | [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](#paper_11) | TBD |
+| 6 | [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](#paper_12) | TBD |
+| 7 | [Domain Agnostic Few-Shot Learning For Document Intelligence](#paper_13) | TBD |
+| 8 | [Scientific Comparative Argument Generation](#paper_15) | TBD |
+| 9 | [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](#paper_17) | TBD) |
 
 ------
 
 ### Details
-
--->
 
 * **Title**: <a name="paper_5"/>DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding
   * **Authors**: Emad Elwany (Lexion)*; Allison Hegel (Lexion)
@@ -44,7 +39,7 @@ permalink: /papers/
 * **Title**: <a name="paper_11"/>FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts
   * **Authors**: Simon Tannert (Institute for Natural Language Processing, University of Stuttgart)*; Marcelo G Feighelstein (Data Science Research Center, University of Haifa); Jasmina Bogojeska (IBM Research); Joseph Shtok (IBM-Reseach); Assaf Arbelle (IBM Research AI); Peter W J Staar (IBM Research); Anika Schumann (IBM Research); Jonas Kuhn (University of Stuttgart); Leonid Karlinsky (IBM Research)
   * **Abstract**: Flowcharts are a very popular type of diagram in many kinds of documents, conveying large amounts of useful information and knowledge (e.g. on processes, workflows, or causality).<br/>In this paper, we propose FlowchartQA – a novel, and first of its kind, large-scale benchmark with close to 1M flowchart images and 6M question-answer pairs.<br/>The questions in FlowchartQA cover different aspects of geometric, topological, and semantic information contained in the charts, and are carefully balanced to reduce biases.<br/>We accompany our proposed benchmark with a comprehensive set of baselines based on text-only, image and graph and qualitative analysis in order to establish a good basis for future work.
-* **Title**: <a name="paper_12"/> Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction
+* **Title**: <a name="paper_12"/>Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction
   * **Authors**: Debraj D Basu (Adobe)*; Meghanath MY (Adobe); Deepak Pai (Adobe)
   * **Abstract**: We propose a method for extracting entities and relations from natural language. When put together, this results in fact-triplets of the form {\it subject}, {\it predicate} and {\it object} as knowledge units. Our method benefits from memory-efficient triplet attention in addition to conventional self-attention as a feature refinement mechanism. We do this by explicitly facilitating contextual cues for every candidate entity span and {\it subject} and {\it object} pairs, which are allowed to attend to each token of the sentence besides attention between any two tokens. In conjunction with sharing information between the two tasks and the benefits of transfer learning, our method exhibits competitive performance in strict evaluation, compared to the previous state-of-the-art for different public datasets, with improvements up to 2.6\% and 3.4\% in micro and macro-F1 for entity recognition, as well as 6.9\% and 5.9\% in micro and macro-F1 respectively for relation extraction.
 * **Title**: <a name="paper_13"/>Domain Agnostic Few-Shot Learning For Document Intelligence
@@ -56,40 +51,3 @@ permalink: /papers/
 * **Title**: <a name="paper_17"/>Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text
   * **Authors**: Sidra Hanif (Temple University)*; Longin Jan Latecki (Temple University)
   * **Abstract**: Word detection is considered an object detection problem. The handwritten text varies in spacing between characters, making word detection harder than object detection. Moreover, characters are more easily identifiable than words in the handwritten text for low-contrast camera-captured images.<br/>Nevertheless, considering the only character and ignoring a word's entirety does not cope with overlapping words common in handwriting text. Therefore, we propose the fusion of character estimation with word detection in this work. Since the character level annotations are not available for handwritten text, we estimate the character region scores in a weakly supervised manner. Therefore, we fuse character region scores and handwriting images to detect words in camera-captured handwriting images. Fusion of character region score with image has a higher recall of 88.4(+1.2) and outperforms the state of the state-of-the-art object detector with 92.2(+0.4) mAP@0.5 and 64.0(+0.4) mAP@0.5:0.95.
-
-<!--
-
-------
-
-## Posters
-(in alphabetical order; authors marked by * are the corresponding authors)
-
-| # | Title | Session | 
-|:- |:- |:-: |
-| 1 | [Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](#paper_3) | [2](https://document-intelligence.github.io/DI-2021/program/#session_2) |
-| 2 | [Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](#paper_10) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
-| 3 | [Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](#paper_9) | [1](https://document-intelligence.github.io/DI-2021/program/#session_1) |
-| 4 | [The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](#paper_6) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
-| 5 | [Towards Semantic Search for Community Question Answering for Mortgage Officers](#paper_17) | [3](https://document-intelligence.github.io/DI-2021/program/#session_3) |
-
-------
-
-### Details
-
-* <a name="paper_3"/>[Few-Shot Learning for Structured Information Extraction From Form-Like Documents Using a Diff Algorithm](</DI-2021/files/di-2021_final_3.pdf>)
-  * **Authors**: Nerya Or (Google)*; Shlomo Urbach (Google)
-  * **Abstract**: We present a novel approach for extracting structured data from a collection of similarly-structured scanned documents (e.g., multiple instances of the same form, or printouts from a database). Documents are not required to have a fixed layout; the position of some elements may shift vertically, and groups of fields can appear repeatedly. We are robust against OCR errors and other noise. Our training stage requires only a handful of sample documents, one of which is annotated for fields of interest. Using this training data, we are able to extract data from other similar documents. Extraction of data is performed using a diff-like algorithm over boilerplate text tokens of the documents, which is leveraged to find areas in the input documents which correspond to areas in the annotated document.
-* <a name="paper_10"/>[Medical Report Generation with Multi-Attention for Abnormal Keyword Description and History Report](</DI-2021/files/di-2021_final_10.pdf>)
-  * **Authors**: HaiHan Yao (Donghua University)*; Mei Wang (Donghua University); YanXia Qin (Donghua University)
-  * **Abstract**: This paper proposes an automatic medical report generation framework based on both current medical image and a previous history report. A keyword list describing the abnormal or special observations from the medical image is used to represent the image. In the proposed method, sentence-level structure information of the history report is extracted with the sentence level embedding. Then we construct two attention components. One is used to learn important semantic and sequential information from the keyword list, the other is used to learn the correlation between the current keyword list and the history report. Finally, all above information is combined together to help generating the current report. We conduct experiments on a practical ultrasound text dataset collected from a reputable hospital in Shanghai, China. The experimental results show that the reports generated by the proposed method are more accurate and smooth compared with a strong baseline method.
-* <a name="paper_9"/>[Multi-Stage Framework to Boost Optical Character Recognition Performance on Low Quality Document Images](</DI-2021/files/di-2021_final_9.pdf>)
-  * **Authors**: Nitin Gupta (IBM Research); Shashank Mujumdar (IBM Research, India)*; Abhinav Jain (None); Doug Burdick (IBM Research); Hima Patel (IBM Research)
-  * **Abstract**: In order to extract text from good quality document images, the state-of-the-art (SOA) Tesseract Engine (TE) performs: (i) image processing, (ii) page segmentation to extract text lines and (iii) apply Optical Character Recognition (OCR) on text lines to extract the text tokens. However, TE fails miserably on complex document images with low resolution, colored text regions, tables, charts etc. which presents the need to optimize the TE performance. In this paper, we propose a novel multi-stage pipeline to address the shortcomings of the TE and boost the OCR performance for challenging document images. Specifically, we propose an approach - (i) for page segmentation to extract text lines, (ii) to detect and binarize colored text regions and (iii) to detect and correct the image quality. We rigorously test the pipeline on 5 datasets and show the improvement in the OCR performance against the standard TE and SOA baselines.
-* <a name="paper_6"/>[The Law of Large Documents: Understanding the Structure of Legal Contracts Using Visual Cues](</DI-2021/files/di-2021_final_6.pdf>)
-  * **Authors**: Allison Hegel (Lexion)*; Marina Shah (Lexion); Genevieve Peaslee (Lexion); Brendan Roof (Lexion); Emad Elwany (Lexion)
-  * **Abstract**: Large, pre-trained transformer models like BERT have achieved state-of-the-art results on document understanding tasks, but most implementations can only consider 512 tokens at a time. For many real-world applications, documents can be much longer, and the segmentation strategies typically used on longer documents miss out on document structure and contextual information, hurting their results on downstream tasks. In our work on legal agreements, we find that visual cues such as layout, style, and placement of text in a document are strong features that are crucial to achieving an acceptable level of accuracy on long documents. We measure the impact of incorporating such visual cues, obtained via computer vision methods, on the accuracy of document understanding tasks including document segmentation, entity extraction, and attribute classification. Our method of segmenting documents based on structural metadata out-performs existing methods on four long-document understanding tasks as measured on the Contract Understanding Atticus Dataset.
-* <a name="paper_17"/>[Towards Semantic Search for Community Question Answering for Mortgage Officers](</DI-2021/files/di-2021_final_17.pdf>)
-  * **Authors**: Amir Reza Rahmani (Zillow Group)*; Linwei Li (Zillow Group); Shourabh Rawat (Zillow Group); Brian Vanover (Zillow Group); Colin Bertrand (Zillow Group)
-  * **Abstract**: Community Question Answering (CQA) has gained increasing popularity in many domains. Mortgage is a complex and dynamic industry, and a flexible and efficient CQA platform can potentially enhance the quality of service for mortgage officers significantly. We have built a dynamic CQA platform with a state of the art semantic search engine based on recent Natural Language Processing (NLP) techniques to dynamically and collectively capture and transfer the maturity and tribal knowledge of the more experienced workforce to less experienced ones. The search engine allows for both keyword and natural language queries and is based on a fine-tuned domain-adapted Sentence-BERT encoder linearly composed with a TF-IDF vectorizer, and reciprocal-rank fused with a BM25 vectorizer. Domain adaptation and fine-tuning is based on publicly available mortgage corpora. Evaluation is performed on an internally annotated dataset using standard information retrieval metrics such as normalized discounted cumulative gain (nDCG), precision/recall at n, mean reciprocal rank, and mean average precision (MAP). The results indicate that our hybrid, fine-tuned, domain-adapted search engine is a more effective approach in responding to the information needs of our mortgage officers compared to traditional search techniques. We aim to publish the internally-annotated evaluation and training datasets in the near future.
-
--->
