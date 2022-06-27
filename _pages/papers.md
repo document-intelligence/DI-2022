@@ -57,7 +57,8 @@ permalink: /papers/
   * **Authors**: Sidra Hanif (Temple University)*; Longin Jan Latecki (Temple University)
   * **Abstract**: Word detection is considered an object detection problem. The handwritten text varies in spacing between characters, making word detection harder than object detection. Moreover, characters are more easily identifiable than words in the handwritten text for low-contrast camera-captured images.<br/>Nevertheless, considering the only character and ignoring a word's entirety does not cope with overlapping words common in handwriting text. Therefore, we propose the fusion of character estimation with word detection in this work. Since the character level annotations are not available for handwritten text, we estimate the character region scores in a weakly supervised manner. Therefore, we fuse character region scores and handwriting images to detect words in camera-captured handwriting images. Fusion of character region score with image has a higher recall of 88.4(+1.2) and outperforms the state of the state-of-the-art object detector with 92.2(+0.4) mAP@0.5 and 64.0(+0.4) mAP@0.5:0.95.
 
-<!---
+<!--
+
 ------
 
 ## Posters
@@ -91,3 +92,4 @@ permalink: /papers/
   * **Authors**: Amir Reza Rahmani (Zillow Group)*; Linwei Li (Zillow Group); Shourabh Rawat (Zillow Group); Brian Vanover (Zillow Group); Colin Bertrand (Zillow Group)
   * **Abstract**: Community Question Answering (CQA) has gained increasing popularity in many domains. Mortgage is a complex and dynamic industry, and a flexible and efficient CQA platform can potentially enhance the quality of service for mortgage officers significantly. We have built a dynamic CQA platform with a state of the art semantic search engine based on recent Natural Language Processing (NLP) techniques to dynamically and collectively capture and transfer the maturity and tribal knowledge of the more experienced workforce to less experienced ones. The search engine allows for both keyword and natural language queries and is based on a fine-tuned domain-adapted Sentence-BERT encoder linearly composed with a TF-IDF vectorizer, and reciprocal-rank fused with a BM25 vectorizer. Domain adaptation and fine-tuning is based on publicly available mortgage corpora. Evaluation is performed on an internally annotated dataset using standard information retrieval metrics such as normalized discounted cumulative gain (nDCG), precision/recall at n, mean reciprocal rank, and mean average precision (MAP). The results indicate that our hybrid, fine-tuned, domain-adapted search engine is a more effective approach in responding to the information needs of our mortgage officers compared to traditional search techniques. We aim to publish the internally-annotated evaluation and training datasets in the near future.
 
+-->
