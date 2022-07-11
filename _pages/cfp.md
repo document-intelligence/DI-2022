@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- July 10: Paper final version due on [August 1, 2022](#important-dates)!
 - June 26: [Accepted papers](https://document-intelligence.github.io/DI-2022/papers/) announced!
 - June 20: Paper notification is now extended to [June 26, 2022](#important-dates)!
 - June 17:
@@ -139,7 +140,7 @@ Microsoft Research CMT: <https://cmt3.research.microsoft.com/DI2022>
 
 - Paper Submission Deadline: 23:59 on Thursday ~~June 2~~ June 9, 2022 (anywhere on Earth).
 - Paper Notification Date: ~~Monday June 20~~ Sunday June 26, 2022. 
-- Paper Final Version Due: TBD, 2022.
+- Paper Final Version Due: Monday August 1, 2022.
 <!-- - Pre-recorded Video and Slides Upload Due: 23:59 on TBD, 2022 (anywhere on Earth). -->
 - Workshop Date: Sunday August 14, 2022 EDT.
 
