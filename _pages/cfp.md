@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- July 21: Clarified that the workshop this year will be held [*in-person*](#in-person). All accepted papers must have one person present the work in the workshop in-person.
 - July 10: Paper final version due on [August 1, 2022](#important-dates)!
 - June 26: [Accepted papers](https://document-intelligence.github.io/DI-2022/papers/) announced!
 - June 20: Paper notification is now extended to [June 26, 2022](#important-dates)!
@@ -99,7 +100,8 @@ Submissions can be original research contributions, or abstracts of papers previ
 
 The review process is double-blind, and we follow the [Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest). The submitted contributions will be peer-reviewed by the Program Committee, and preference will be given to high-quality original and relevant work to the Document Intelligence topics.
 
-It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work in video in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
+<div id="in-person"></div>
+It is expected that one of the authors of accepted contributions will register and attend the workshop to present the work ~~in video~~ *in-person* in the workshop's Paper Sessions (format to be decided). Accepted contributions will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
 
 <div id="workshop_proceedings"></div>
 
