@@ -14,7 +14,7 @@ permalink: /papers/
 | 2 | [BusiNet - a Light and Fast text Detection Network for Business Documents](#paper_6) | TBD |
 | 3 | [Graph Attention Networks for Efficient Text Line Detection on Receipt-Layout Documents](#paper_7) | TBD |
 | 4 | [Document Summarization with Text Segmentation](#paper_8) | TBD |
-| 5 | [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](#paper_11) | TBD |
+| 5 | [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](#paper_11) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
 | 6 | [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](#paper_12) | TBD |
 | 7 | [Domain Agnostic Few-Shot Learning For Document Intelligence](#paper_13) | TBD |
 | 8 | [Scientific Comparative Argument Generation](#paper_15) | TBD |
