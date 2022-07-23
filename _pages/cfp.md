@@ -11,6 +11,7 @@ redirect_from:
 
 ## UPDATES
 
+- July 22: The workshop [Program](https://document-intelligence.github.io/DI-2022/program/) is up!
 - July 21: Clarified that the workshop this year will be held [*in-person*](#in-person). All accepted papers must have one author present the work in the workshop in-person.
 - July 10: Paper final version due on [August 1, 2022](#important-dates)!
 - June 26: [Accepted papers](https://document-intelligence.github.io/DI-2022/papers/) announced!
