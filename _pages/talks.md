@@ -1,5 +1,5 @@
 ---
-title: <center>Invited Talk</center>
+title: <center>Keynote Talk</center>
 excerpt: "Talk"
 sitemap: false
 permalink: /talks/
