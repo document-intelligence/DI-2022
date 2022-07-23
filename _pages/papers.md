@@ -10,15 +10,15 @@ permalink: /papers/
 
 | # | Title | Session | 
 |:- |:- |:-: |
-| 1 | [DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding](#paper_5) | TBD |
-| 2 | [BusiNet - a Light and Fast text Detection Network for Business Documents](#paper_6) | TBD |
-| 3 | [Graph Attention Networks for Efficient Text Line Detection on Receipt-Layout Documents](#paper_7) | TBD |
-| 4 | [Document Summarization with Text Segmentation](#paper_8) | TBD |
+| 1 | [DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding](#paper_5) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
+| 2 | [BusiNet - a Light and Fast text Detection Network for Business Documents](#paper_6) | [2](https://document-intelligence.github.io/DI-2022/program/#session_2) |
+| 3 | [Graph Attention Networks for Efficient Text Line Detection on Receipt-Layout Documents](#paper_7) | [2](https://document-intelligence.github.io/DI-2022/program/#session_2) |
+| 4 | [Document Summarization with Text Segmentation](#paper_8) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
 | 5 | [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](#paper_11) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
-| 6 | [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](#paper_12) | TBD |
-| 7 | [Domain Agnostic Few-Shot Learning For Document Intelligence](#paper_13) | TBD |
-| 8 | [Scientific Comparative Argument Generation](#paper_15) | TBD |
-| 9 | [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](#paper_17) | TBD |
+| 6 | [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](#paper_12) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
+| 7 | [Domain Agnostic Few-Shot Learning For Document Intelligence](#paper_13) | [2](https://document-intelligence.github.io/DI-2022/program/#session_2) |
+| 8 | [Scientific Comparative Argument Generation](#paper_15) | [1](https://document-intelligence.github.io/DI-2022/program/#session_1) |
+| 9 | [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](#paper_17) | [2](https://document-intelligence.github.io/DI-2022/program/#session_2) |
 
 ------
 

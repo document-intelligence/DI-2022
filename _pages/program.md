@@ -54,7 +54,11 @@ Panel Q&A session for all presentations
 
 | Title | Slides | Video |
 |:- |:-: |:-: |
-| [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](https://document-intelligence.github.io/DI-2022/papers/#paper_5) | -- | -- |
+| [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](https://document-intelligence.github.io/DI-2022/papers/#paper_11) | -- | -- |
+| [Document Summarization with Text Segmentation](https://document-intelligence.github.io/DI-2022/papers/#paper_8) | -- | -- |
+| [Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction](https://document-intelligence.github.io/DI-2022/papers/#paper_12) | -- | -- |
+| [DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding](https://document-intelligence.github.io/DI-2022/papers/#paper_5) | -- | -- |
+| [Scientific Comparative Argument Generation](https://document-intelligence.github.io/DI-2022/papers/#paper_15) | -- | -- |
 
 ------
 
@@ -62,4 +66,7 @@ Panel Q&A session for all presentations
 
 | Title | Slides | Video |
 |:- |:-: |:-: |
-| [FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts](https://document-intelligence.github.io/DI-2022/papers/#paper_5) | -- | -- |
+| [Domain Agnostic Few-Shot Learning For Document Intelligence](https://document-intelligence.github.io/DI-2022/papers/#paper_13) | -- | -- |
+| [BusiNet - a Light and Fast text Detection Network for Business Documents](https://document-intelligence.github.io/DI-2022/papers/#paper_6) | -- | -- |
+| [Graph Attention Networks for Efficient Text Line Detection on Receipt-Layout Documents](https://document-intelligence.github.io/DI-2022/papers/#paper_7) | -- | -- |
+| [Autonomous Character Score Fusion for Word Detection in Low-contrast Camera-captured Handwriting Text](https://document-intelligence.github.io/DI-2022/papers/#paper_17) | -- | -- |
