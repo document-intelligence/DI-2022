@@ -42,7 +42,7 @@ Panel Q&A session for all presentations
 | Start Time 	| End Time 	| Duration 	| Topic 	| Session Chair 	|Slides|Video|
 |:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|:-:	|
 | 8:00 	| 8:10 	| 0:10 	| Workshop Opening Remarks 	| [Ani Nenkova](https://www.cis.upenn.edu/~nenkova/)	| -- | -- |
-| 8:10 	| 9:30 	| 0:80 	| [Paper Presentation Session 1: Applications](#session_1) 	| -- | -- | -- |
+| 8:10 	| 9:30 	| 0:80 	| [Paper Presentation Session 1: Applications](#session_1)<br> 1. FlowchartQA: The First Large Scale Benchmark for Reasoning Over Flowcharts<br>2. Document Summarization with Text Segmentation<br>3. Revisiting How to Focus: Triplet Attention for Joint Entity and Relation Extraction<br>4. DeeperDive: The Unreasonable Effectiveness of Weak Supervision in Document Understanding<br>5. Scientific Comparative Argument Generation | -- | -- | -- |
 | 9:30 	| 10:00 	| 0:30 	| COFFEE BREAK 	| -- | -- | -- |
 | 10:00 	| 11:00 	| 0:60 	| Keynote Talk: [William Wang](https://sites.cs.ucsb.edu/~william/index.html) - [Learning to Reason with Text and Tables](https://document-intelligence.github.io/DI-2022/talks) | -- | -- | -- |
 | 11:00 	| 11:55 	| 0:55 	| [Presentation Session 2: Foundations](#session_2) 	| -- | -- | -- |
