@@ -7,7 +7,7 @@ permalink: /program/
 
 ------
 
-## Overall Program (8-12pm, Sunday August 14, 2022, PDT)
+## Date/Time: 8-12pm, Sunday August 14, 2022, PDT
 
 <!--
 
